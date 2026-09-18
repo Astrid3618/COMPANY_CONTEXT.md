@@ -1,8 +1,12 @@
-# Correo para BR Group — cerrar el pendiente de tipografías y color
+# Correo para BR Group — confirmar artes, licencia y color
+
+**Estado:** borrador creado en Gmail (gerencia@frigorificopacande.com),
+actualizado el 18 de septiembre de 2026. Pendiente de enviar.
 
 **Para:** diseno@brgsa.com
 **Copia:** ventas4@brgsa.com
-**Asunto:** Frigorífico Pacandé — nombres de tipografías y color exacto del arte CAMARÓN 500 G
+**Asunto:** Frigorífico Pacandé — confirmación de tipografías, Pantone y
+logo en vector (ref. CAMARÓN 500 G)
 
 ---
 
@@ -10,20 +14,27 @@ Buenos días,
 
 Con ustedes manejamos el arte de nuestros empaques, referencia **CAMARÓN
 500 G**, aprobado en mayo de 2023. Estamos armando el manual de marca de
-Frigorífico Pacandé y necesito tres datos que están en el archivo de diseño
+Frigorífico Pacandé y necesito confirmar cuatro puntos del archivo de diseño
 original:
 
-**1. Los nombres exactos de las dos tipografías que usan en nuestras piezas.**
-Son dos: la manuscrita o cursiva del nombre "Pacandé", y la sans-serif de
-los textos informativos ("frigorífico", la tabla nutricional, etc.). Con el
-nombre de las fuentes tal como aparecen en el archivo AI o PSD me sirve.
+**1. Tipografías.** Nuestros archivos de marca indican que las dos fuentes
+son **Century Gothic**, para los textos informativos, y **Ananda Black**,
+para el nombre "Pacandé". ¿Me confirman que son esas las que quedaron en el
+arte impreso, o el arte final usa otras?
 
-**2. El código exacto del azul del empaque.** En Pantone y en CMYK, tal como
-quedó en el arte impreso. Lo necesito porque el azul del empaque y el azul
-de nuestro logo no son el mismo tono, y quiero dejar definido cuál va en
-cada cosa.
+**2. Licencia de la fuente Ananda.** El archivo que tenemos nosotros es la
+versión de uso personal, que no cubre uso comercial. ¿Ustedes manejan una
+licencia comercial de esa fuente para los artes que producen? Si no,
+agradezco me lo confirmen para gestionarla por nuestra parte antes de hacer
+nuevas piezas.
 
-**3. El logo en vectores** (AI, EPS o SVG), si lo tienen en su archivo.
+**3. Colores en Pantone y CMYK.** Necesito los códigos exactos tal como
+quedaron en el arte impreso: el azul marino del pez y del nombre, y el azul
+claro de la ola. Los tenemos solo como valores de pantalla y quiero dejar
+definido cuál va en cada cosa.
+
+**4. El logo en vectores** (AI, EPS o SVG), si lo tienen en su archivo. El
+que manejamos internamente está calcado y no sirve como original.
 
 Si necesitan que les confirme algo de nuestra parte para liberar los
 archivos, me avisan y lo gestiono el mismo día.
@@ -37,10 +48,21 @@ gerencia@frigorificopacande.com
 
 ---
 
-## Por qué cada pedido
+## Qué cierra cada punto
 
-| Pedido | Para qué sirve |
+| Pedido | Pendiente que cierra |
 |---|---|
-| Nombres de las tipografías | Cierra el pendiente #6 del COMPANY_CONTEXT. Sin esto, cualquier pieza nueva usa una fuente aproximada y la marca se va diluyendo |
-| Pantone y CMYK del azul del empaque | Permite decidir con certeza el tema de los dos azules, con el dato del impresor y no con un color extraído de una foto |
-| Logo en vectores | Hoy solo hay PNG y un SVG de una agencia anterior. El vector del proveedor que imprime es la versión más confiable |
+| Confirmación de tipografías | Verifica contra el arte impreso lo que ya sabemos por los archivos de la carpeta TIPOGRAFIA |
+| Licencia de Ananda | **El punto más importante.** La fuente del nombre de marca es de uso personal y se está usando comercialmente |
+| Pantone y CMYK | Resuelve de una vez el tema de los dos azules y cuál es el azul marino correcto, con el dato del impresor |
+| Logo en vectores | El SVG que existe hoy está calcado automáticamente (trae cinco marinos casi iguales) y no sirve como original |
+
+## Gestión paralela
+
+Preguntarle también a la agencia que armó el logo —
+`lina.quintero@paolatovarmarketing.com`, Paola Tovar Marketing — si
+compraron la licencia comercial de Ananda en 2022. Es la vía más rápida: si
+ya está pagada, no hay nada que hacer.
+
+Si ninguna de las dos la tiene: **Billy Argel**, autor de la fuente —
+`www.billyargel.com` · `billyargel@gmail.com`.
