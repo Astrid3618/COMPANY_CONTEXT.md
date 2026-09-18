@@ -982,9 +982,33 @@ blanco de por medio.
   Group (marzo–mayo 2023) y los nombres no aparecen en el texto; hay que
   pedírselos a `diseno@brgsa.com` con copia a `ventas4@brgsa.com`,
   referencia "CAMARON 500 G".
-- **Decisión entre dos azules:** el del logo (`#0078BF`) y uno más brillante
-  que aparece en el empaque y en Instagram (`#0C9DFF`). Hoy se usan
-  mezclados.
+### Los dos azules — recomendación con datos [Propuesta, pendiente de decisión]
+
+Hoy se usan mezclados el azul del logo (`#0078BF`) y uno más brillante del
+empaque y de Instagram (`#0C9DFF`). Medido el contraste real de cada uno:
+
+| Combinación | Contraste | ¿Sirve para texto? |
+|---|---|---|
+| `#0078BF` sobre blanco | 4,7 : 1 | Sí |
+| `#0C9DFF` sobre blanco | 2,9 : 1 | **No** |
+| `#0078BF` sobre azul marino | 2,6 : 1 | No |
+| `#0C9DFF` sobre azul marino | 4,2 : 1 | Casi |
+| Blanco sobre azul marino | 12,2 : 1 | Sí, excelente |
+
+*(La norma de accesibilidad pide 4,5:1 para texto normal.)*
+
+**Recomendación: no elegir uno y descartar el otro, sino darle un oficio a
+cada uno.**
+
+- **`#0078BF` — azul oficial.** Todo lo que sea **texto, botón o etiqueta
+  sobre blanco**. Es el de la ola del logo y no se toca.
+- **`#0C9DFF` — solo superficie.** **Fondos grandes, olas, degradados y
+  manchas de color**, donde no va texto encima. Funciona bien **sobre el
+  azul marino** para separar capas. **Nunca como color de texto sobre
+  blanco.**
+
+Así no hay que rehacer el empaque impreso —lo más caro de cambiar— y todo lo
+digital queda legible y consistente.
 
 **Activos visuales existentes:** logo en PNG y SVG · empaque de camarón
 500 g con ficha técnica · camión repartidor con marca · fotografía de
