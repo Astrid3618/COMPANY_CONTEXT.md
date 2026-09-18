@@ -25,28 +25,36 @@ Fecha de inicio: 17 de septiembre de 2026.
 | 6 reseñas textuales de Google con nombre real | skill contexto-de-marca | Sí se pueden usar públicamente |
 | 4 colores de marca exactos extraídos del material real | skill design-system | #FFFFFF, #002C89, #0078BF, #FF5E0D |
 
-## 2. Contradicciones detectadas (a resolver con Astrid antes de escribir)
+## 2. Contradicciones detectadas — ESTADO ACTUALIZADO (18 sep 2026)
 
-1. **Años de trayectoria:** 1984 (=42 años) vs. "más de 35 años" (PPTX) vs.
-   "+40 años" (sobre-mi.md). Hay que fijar una sola cifra oficial.
-2. **Qué vende la empresa:** la misión oficial habla de "productos
-   alimenticios **y utensilios** a precios de mayorista"; el material de
-   marketing 2026 habla solo de pescados y mariscos. ¿Utensilios sigue
-   siendo línea activa?
-3. **Territorio:** "líder del Huila" / "sur colombiano" (PPTX) vs. "Huila,
-   Caquetá, Tolima, Cundinamarca" (sobre-mi) vs. "Neiva" (material de
-   marketing y skill).
-4. **Modelo de negocio:** el documento de la cazuela describe planta de
-   procesamiento, porcionado al vacío, marinados, modelo Justo a Tiempo y
-   plan de 90 días. No está confirmado qué parte de eso ya opera hoy y qué
-   parte es plan. **Todo ese documento se trata como hipótesis** hasta que
-   Astrid confirme.
-5. **Marca Frigopack:** existen catálogos y lista de precios "Frigopack"
-   separados de los catálogos "Pacandé". No está claro si es una marca
-   propia, una línea, o un tercero.
-6. **Caída de ventas 2026 (-35,6%):** la celda compara 8 meses contra 12
-   meses completos. No es una caída real; es un cálculo incompleto. No usar
-   como dato.
+Astrid respondió el Bloque 1. Ver `respuestas-entrevista.md` para el detalle.
+
+1. **Años de trayectoria — RESUELTO.** 1984, hoy 42 años. El "más de 35
+   años" del PPTX es material viejo; el "+40 años" de sobre-mi.md es
+   redondeo. Cifra oficial: **42 años (desde 1984)**.
+2. **Utensilios — RESUELTO.** Sí siguen activos: cubertería Tramontina para
+   mesa de restaurante y cuchillos de cocina. No es residuo del pasado: es
+   parte de la propuesta de "un solo proveedor".
+3. **Territorio — RESUELTO.** Neiva 75%, municipios cercanos 15%, Caquetá
+   5%, Bogotá 5%. El liderazgo del "sur colombiano" es **histórico**, no
+   presente: "hemos bajado un poco pero ya estamos retomando".
+   *Sub-pendiente:* si "municipios cercanos" incluye Tolima.
+4. **Modelo de negocio / cazuelas — RESUELTO.** Es un **proyecto no
+   lanzado**: receta lista, falta recipiente y sala de proceso normativa.
+   Todo el documento de NotebookLM queda como hipótesis.
+5. **Frigopack — RESUELTO.** Es **línea propia de Pacandé**: kits de
+   ingredientes + receta en caja de cartón con logo. Referencias: ceviche,
+   paella, cazuela, sushi y varios de porciones. Catálogo propio.
+6. **Caída de -35,6% en 2026 — RESUELTO por análisis.** Astrid no recuerda
+   el dato; la celda compara 8 meses contra años completos. No es una caída
+   real. **No usar ese número.**
+
+### Contradicciones nuevas o sub-pendientes
+
+- `sobre-mi.md` menciona Tolima y Cundinamarca en la cobertura; los
+  porcentajes de Astrid nombran Caquetá y Bogotá. Aclarar.
+- `sobre-mi.md` dice "+40 años"; queda desactualizado frente a los 42
+  confirmados. Al actualizar ese archivo, corregir.
 
 ## 3. Marcado explícitamente como NO confirmado
 
