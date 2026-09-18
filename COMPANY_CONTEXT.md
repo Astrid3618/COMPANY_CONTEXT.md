@@ -977,11 +977,44 @@ del nombre · el naranja nunca es fondo grande · nada de tipografía angulosa
 o robótica para el nombre · el azul nunca cubre el 100% de una pieza sin
 blanco de por medio.
 
+### Lo que dice el logo en vector [Confirmado — archivo `Logo SVG.svg` de Drive]
+
+Se abrió el vector y se leyeron los valores reales que trae adentro:
+
+| Elemento | Valor en el archivo |
+|---|---|
+| Tipografía de la palabra "frigorífico" | **Arial Bold** (`Arial-BoldMT`), con letter-spacing de 0.11em |
+| Nombre "Pacandé" | **Convertido a curvas** — por eso el archivo no dice qué fuente es |
+| Azul de la ola | `#0e78be` |
+| Azul marino (tono principal) | `#263878` |
+| Otros azules marinos en el mismo archivo | `#283979`, `#293a79`, `#2a3b7b`, `#364786` |
+| Otro azul claro | `#2079bb` |
+
+**Tres lecturas de esto:**
+
+1. **El azul secundario queda confirmado.** El `#0e78be` del vector y el
+   `#0078BF` extraído de las imágenes son prácticamente el mismo color. El
+   azul del logo está resuelto.
+2. **El azul marino NO está resuelto.** El vector trae `#263878`, que es un
+   marino más grisáceo que el `#002C89` extraído del logo oficial. Y el
+   archivo contiene **cinco marinos distintos** que varían apenas entre sí:
+   esa es la firma típica de un vector **calcado automáticamente a partir de
+   una imagen**, no construido desde el arte original. Por eso los colores
+   de este SVG **no son fuente de verdad**, aunque vengan de un archivo
+   vectorial.
+3. **Una de las dos tipografías podría ser Arial Bold** — al menos en este
+   archivo. Puede ser la fuente real o una sustitución que hizo quien calcó
+   el logo. **Hay que confirmarlo con BR Group**, que tiene el arte original.
+
 **[Pendiente]**
 - **Nombre exacto de las 2 tipografías.** Se revisaron los correos con BR
-  Group (marzo–mayo 2023) y los nombres no aparecen en el texto; hay que
-  pedírselos a `diseno@brgsa.com` con copia a `ventas4@brgsa.com`,
-  referencia "CAMARON 500 G".
+  Group (marzo–mayo 2023) y los nombres no aparecen en el texto; el vector
+  disponible apunta a Arial Bold para los textos informativos, sin
+  confirmar. Hay que pedírselos a `diseno@brgsa.com` con copia a
+  `ventas4@brgsa.com`, referencia "CAMARON 500 G".
+- **Cuál es el azul marino correcto:** `#002C89` (extraído del logo oficial)
+  o `#263878` (el del vector calcado). Se necesita el vector original o el
+  Pantone del impresor.
 ### Los dos azules — recomendación con datos [Propuesta, pendiente de decisión]
 
 Hoy se usan mezclados el azul del logo (`#0078BF`) y uno más brillante del
