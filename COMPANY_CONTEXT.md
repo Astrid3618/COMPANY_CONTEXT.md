@@ -1006,12 +1006,62 @@ Se abrió el vector y se leyeron los valores reales que trae adentro:
    archivo. Puede ser la fuente real o una sustitución que hizo quien calcó
    el logo. **Hay que confirmarlo con BR Group**, que tiene el arte original.
 
+### Tipografías — RESUELTO [Confirmado leyendo los archivos de fuente]
+
+Los archivos están en Drive, en **Compartido conmigo › LOGOS › TIPOGRAFIA**,
+subidos por la agencia (`lina.quintero@paolatovarmarketing.com`) en
+septiembre de 2022. Se leyeron por dentro las tablas de nombres:
+
+| Uso | Fuente | Detalle del archivo |
+|---|---|---|
+| **Textos informativos** ("frigorífico", etiquetas, empaque) | **Century Gothic** | Monotype Typography, versión 2.35. Disponibles Regular, Bold, Italic y Bold Italic |
+| **Nombre de marca "Pacandé"** | **Ananda Black Personal Use** | Billy Argel, 2019 |
+
+**Century Gothic encaja con la regla de forma del design system:** es una
+sans geométrica, de trazo circular. Es exactamente lo contrario de la
+"tipografía angulosa o robótica" que la marca evita.
+
+> **Contradicción menor resuelta:** el archivo `Logo SVG.svg` declara Arial
+> Bold para la palabra "frigorífico". Ese SVG fue calcado automáticamente
+> (trae cinco azules marinos casi iguales), así que Arial es con toda
+> probabilidad una **sustitución del calco**, no la fuente real. La fuente
+> de la carpeta de marca es Century Gothic.
+
+### ⚠️ Alerta de licencia — Ananda Black Personal Use
+
+El archivo de la fuente del **nombre de la marca** declara textualmente:
+
+> *"Personal Use Only! Commercial licenses and complete set available @
+> www.billyargel.com"*
+
+**Frigorífico Pacandé la está usando comercialmente**: logo, empaque
+impreso, camión, redes y papelería. Una fuente "personal use" **no cubre ese
+uso**.
+
+**Qué hacer, en orden:**
+
+1. **Preguntarle a la agencia** (`lina.quintero@paolatovarmarketing.com`,
+   Paola Tovar Marketing) si compraron la licencia comercial cuando armaron
+   el logo. Puede estar pagada y nadie lo registró.
+2. Si no, **comprar la licencia comercial** directamente al autor: **Billy
+   Argel** — `www.billyargel.com` · `billyargel@gmail.com`. Para una empresa
+   pequeña suele ser un costo bajo y de una sola vez.
+3. Mientras tanto, **no crear piezas nuevas con esa fuente**. El logo
+   existente ya está convertido a curvas, lo cual reduce la exposición, pero
+   no reemplaza la licencia.
+
+*(Esto es una observación a partir de lo que declara el archivo, no un
+concepto legal.)*
+
+**Nota menor sobre Century Gothic:** es propiedad de Monotype y viene
+incluida con Microsoft Office. Usarla para diseñar está cubierto por esa
+licencia; **redistribuir el archivo .TTF** —por ejemplo compartiéndolo en
+una carpeta de Drive— no lo está. Vale la pena restringir quién accede a esa
+carpeta.
+
 **[Pendiente]**
-- **Nombre exacto de las 2 tipografías.** Se revisaron los correos con BR
-  Group (marzo–mayo 2023) y los nombres no aparecen en el texto; el vector
-  disponible apunta a Arial Bold para los textos informativos, sin
-  confirmar. Hay que pedírselos a `diseno@brgsa.com` con copia a
-  `ventas4@brgsa.com`, referencia "CAMARON 500 G".
+- Confirmar con BR Group que el **empaque impreso** usa efectivamente estas
+  dos fuentes, y si ellos manejan una licencia propia.
 - **Cuál es el azul marino correcto:** `#002C89` (extraído del logo oficial)
   o `#263878` (el del vector calcado). Se necesita el vector original o el
   Pantone del impresor.
@@ -1239,6 +1289,10 @@ Se pueden usar hoy, tal cual:
 6. En rotulación se usa **"Reempacado"**, no "empacado".
 7. **No se usan** los claims inventados del documento de la cazuela.
 8. **No se comunica la cazuela de marca propia** como producto existente.
+9. **No se crean piezas nuevas con la tipografía Ananda** hasta aclarar su
+   licencia comercial (ver sección 25).
+10. **No se redistribuye el archivo .TTF de Century Gothic** fuera de la
+    empresa.
 
 ### Marco regulatorio que aplica [Confirmado]
 
@@ -1328,11 +1382,9 @@ rotulado.
 5. Línea base de métricas de Instagram y Facebook, antes de volver a pautar.
 
 **Prioridad media**
-6. Nombre exacto de las dos tipografías. *Se revisaron los correos con BR
-   Group (marzo–mayo 2023) y los nombres no aparecen en el texto. Hay que
-   pedírselos a `diseno@brgsa.com`, con copia a `ventas4@brgsa.com`,
-   referencia "CAMARON 500 G".*
-7. Decisión entre los dos azules.
+6. **Licencia comercial de la tipografía Ananda Black Personal Use.**
+   Resolver con la agencia o comprándola al autor. *(Ver sección 25.)*
+7. Decisión entre los dos azules y cuál es el azul marino correcto.
 8. Meta de ventas 2027 y meta de unidades de Frigopack.
 9. Números de registro sanitario vigentes y reglas finas de rotulado.
 10. Cómo NO queremos que nos describan · arquetipo de marca.
