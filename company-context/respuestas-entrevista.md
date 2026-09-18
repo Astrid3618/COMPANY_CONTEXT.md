@@ -474,3 +474,85 @@ HORECA:
    parte?
 5. ¿Qué dicen los restaurantes cuando no compran o cuando se van con otro?
 6. ¿Qué es lo que más enfurece a un restaurante con un proveedor de pescado?
+
+---
+
+## BLOQUE 2 — Cierre: el cliente HORECA en detalle (18 sep 2026)
+
+### Mejor cliente — CONFIRMADO
+
+**Los restaurantes.**
+
+### Quién decide y quién pide — CONFIRMADO
+
+"Es relativo, **ahora es el jefe de compras**."
+
+> Cambió el interlocutor. Antes era más informal; hoy hay un rol de compras
+> de por medio. Eso importa para el tono comercial: al jefe de compras le
+> hablas de cumplimiento, gramaje y precio, no de inspiración culinaria.
+
+### Cómo llegaron los clientes HORECA — CONFIRMADO
+
+- **Más de 40 años visitando HORECA y llamándolos.**
+- También por **referidos**.
+- **"Los que se quedan es porque confían mucho en la calidad y la frescura
+  del producto."**
+
+> **Dato clave de retención en palabras de Astrid:** lo que retiene no es el
+> precio ni el domicilio — es **calidad y frescura**. Y la adquisición
+> histórica fue **puerta a puerta y teléfono**, exactamente lo que hoy hace
+> la competencia con sus carros y Pacandé dejó de hacer de forma sistemática.
+
+### Frecuencia de pedido — CONFIRMADO
+
+- **Una o dos veces por semana**, según el cliente.
+- **Restaurantes pequeños:** venden lo que compran; piden cuando pueden.
+- **Restaurantes grandes y organizados:** piden **una vez por semana**.
+
+### Qué pasa cuando se van — CONFIRMADO, y es un hallazgo importante
+
+**"A veces no dicen nada. No los notamos sino después de un tiempo."**
+
+Astrid identifica ella misma la necesidad: *"aquí es necesario tener alguna
+alerta automatizada que nos recuerde quién no ha hecho la recompra."*
+
+> **Consecuencia para el documento:** la afirmación anterior "perdemos
+> clientes por precio" **no es un hecho verificado, es una suposición**. Si
+> los clientes se van en silencio y nadie lo nota hasta tiempo después,
+> entonces **nadie sabe realmente por qué se van**. Queda registrado como
+> hipótesis, no como causa.
+>
+> Es exactamente el mismo patrón ya documentado en hogares (la clienta con
+> reseña de 5 estrellas que se perdió por falta de seguimiento). **El mismo
+> agujero existe en B2B y en B2C.**
+
+### Qué enfurece a un restaurante con un proveedor de pescado — CONFIRMADO
+
+En palabras de Astrid:
+
+1. **Demora en la entrega.**
+2. **Que el producto no cumpla el tamaño requerido.**
+3. **Que tenga mucha agua.**
+4. **Que no esté fresco.**
+
+> **Esto es oro y es evidencia real.** "Que tenga mucha agua" es el reclamo
+> clásico contra el exceso de glaseo: el cliente paga hielo al precio del
+> pescado. Y "que no cumpla el tamaño" es exactamente lo que resuelve el
+> porcionado con estándares de gramaje que Pacandé ya tiene documentado.
+>
+> Reemplaza sin pérdida los claims inventados por la IA ("mermas cero",
+> "100% libre de espinas"): **estos cuatro dolores son reales, vienen del
+> cliente, y Pacandé tiene respuesta para tres de los cuatro.**
+
+### Canales y estructura — CONFIRMADO
+
+- **Rappi: inactivo.** No funcionó: "cobran mucho" y **"la gente del Huila
+  no pide alimentos y productos que requieran refrigeración por Rappi"**.
+  Se desactivó.
+- **Bogotá: no hay punto de venta desde 2020** aproximadamente.
+- **Adriana:** auxiliar contable.
+- **Juan Camilo:** ya no trabaja en la empresa.
+
+> Se cierran las tres señales que habían aparecido en los archivos. La lista
+> de precios de Rappi y el inventario de Bogotá son **material histórico**,
+> no operación actual.
