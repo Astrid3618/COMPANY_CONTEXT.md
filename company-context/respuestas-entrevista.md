@@ -358,3 +358,119 @@ A veces piden de **Natagaima (Tolima)** y **Girardot (Cundinamarca)**, pero
 > **Cuidado con el claim "producto local".** Solo aplica a mojarra y tilapia
 > nacional; la tilapia importada y el bagre vienen de otra parte. Cualquier
 > mensaje de origen tiene que ser por producto, no general.
+
+---
+
+## BLOQUE 2 — Cliente HORECA, institucional y competencia (18 sep 2026)
+
+### Composición real de las ventas — CONFIRMADO, y cambia la lectura del negocio
+
+- **73% de las ventas se factura a nombre de una empresa o una persona.**
+- El 27% restante es **consumidor final**.
+- **"Vendemos más a HORECA que a hogares."**
+
+> **Esto reordena todo.** HORECA no es un segmento a conquistar: **ya es el
+> negocio principal**. El objetivo "más clientes HORECA" es hacer crecer el
+> núcleo, no entrar a un mercado nuevo. Y todo el research de marca que
+> existe hoy (verbatims, objeciones, ángulos, seguimiento) describe al
+> segmento **minoritario**.
+
+### Tipos de cliente institucional y HORECA — CONFIRMADO
+
+Restaurantes · clubes · casinos · hoteles · colegios · supermercados.
+
+**La lista concreta de clientes es información de total confidencialidad**
+según Astrid. Vive fuera del repositorio, en `CONFIDENCIAL-datos-internos.md`.
+**No se nombra ningún cliente en ninguna pieza de marketing.**
+
+### Cómo se vende a institucional — CONFIRMADO
+
+- **Venta directa, no por licitación.**
+- **Excepción:** los casinos de compañía petrolera, que sí van por proceso.
+
+### Supermercados — CONFIRMADO
+
+Son **supermercados pequeños de barrio**. Se les vende **porciones pequeñas
+y por libras**.
+
+### Competencia — CONFIRMADO (por nombre, primera vez que existe este dato)
+
+| Competidor | Lo que se sabe |
+|---|---|
+| **Dispez** | — |
+| **El Gran Langostino** | — |
+| **Dismarsur** | Tiene una **despensa grande** y la **presentación de su punto de venta es muy buena** |
+| **Fresmark** | — |
+| **Anacla** | — |
+| **Viento** | — |
+
+**Lo que hace bien la competencia:** *"algunos tienen mejores precios"* y el
+punto de venta de Dismarsur está mejor presentado.
+
+**Por qué se pierde un cliente:** **por precio.** Y cuando se pierde,
+**el cliente le compra a otro** (no deja de comprar, no lo resuelve solo).
+
+> **Regla de comunicación registrada:** Dismarsur **no se usa** en
+> comparaciones públicas, contenido, anuncios ni argumentos de venta. El
+> motivo está registrado fuera del repositorio. Cualquier análisis que lo
+> incluya es de uso estrictamente interno.
+
+### Contradicción importante que hay que resolver
+
+Astrid dice que **se pierden clientes por precio**. Pero la hoja interna de
+"Armalo tú mismo" muestra que Pacandé es **más barato por porción que el
+competidor medido en la mayoría de productos**, y solo pierde en dos
+(langostino y róbalo).
+
+Tres explicaciones posibles, ninguna confirmada:
+
+1. La comparación está desactualizada (hay una fila fechada en 2024).
+2. El competidor medido **no es** contra el que se pierden los clientes.
+3. Se pierde en productos puntuales o en condiciones (crédito, plazo), no en
+   el precio general.
+
+**Es el vacío más accionable que hay ahora mismo.** Si Pacandé es más
+barato y aun así pierde por precio, el problema es de **comunicación de
+precio**, no de precio.
+
+### Frigopacks — CONFIRMADO
+
+- **11 referencias.**
+- **No se están vendiendo.**
+
+*(La hoja de precios lista 13 entradas, dos de ellas incompletas: el arroz
+marinero sin precio y el de porciones con error de fórmula. Cuadra con las
+11 activas que reporta Astrid.)*
+
+### Alba María — CONFIRMADO
+
+La **"Alba" jefe de logística es Alba María, la fundadora**. Organiza las
+entregas y hace pedidos, a sus 84 años.
+
+### Uso público de la historia familiar — RESTRICCIÓN DEFINITIVA
+
+**No se usa.** Ni el nombre de la fundadora en el relato público, ni la
+historia de la crisis y la recuperación, ni ninguna versión suavizada de
+ella. El motivo está registrado fuera del repositorio.
+
+> Para comunicación pública nos quedamos con los hechos del negocio: 42 años
+> de trayectoria, el origen en 1984, que la empresa trajo producto de mar a
+> una región donde no se conseguía, y el portafolio actual.
+
+---
+
+## Pendientes del Bloque 2 (siguen abiertos)
+
+Estas seis no quedaron respondidas y son el corazón del entendimiento
+HORECA:
+
+1. ¿Cuál es el mejor cliente HORECA y por qué? ¿Cuál deja más margen y cuál
+   es más fácil de atender? (por tipo, sin nombres)
+2. En un restaurante, ¿quién decide la compra y quién llama a hacer el
+   pedido: chef, dueño o administrador?
+3. ¿Cómo llegaron los clientes HORECA actuales: puerta a puerta, referidos,
+   o llegaron solos a Surabastos?
+4. ¿Cada cuánto pide un restaurante, y compra todo en Pacandé o solo una
+   parte?
+5. ¿Qué dicen los restaurantes cuando no compran o cuando se van con otro?
+6. ¿Qué es lo que más enfurece a un restaurante con un proveedor de pescado?
