@@ -29,9 +29,13 @@ años** de operación. Vende a **restaurantes, clubes, casinos, hoteles,
 colegios, supermercados de barrio y hogares**, y su punto de venta está en
 la central de abastos **Surabastos**, además de domicilio propio.
 
-**El 73% de las ventas se factura a nombre de una empresa o persona y se
-vende más a HORECA que a hogares.** El negocio principal es institucional y
-de restaurantes; los hogares son el complemento.
+**El 73% de las ventas se factura a nombre de una empresa o persona.** Por
+segmento, los **restaurantes son el 38% de los ingresos**, el consumidor
+final el 25%, los comercializadores el 20%, los clubes y casinos el 13% y
+los colegios el 4%. El negocio principal es de restaurantes e institucional;
+los hogares son el complemento.
+
+**La meta declarada:** aumentar un **20% los clientes HORECA**.
 
 Lo que hace distinto a Pacandé no es el producto en sí —lo consigue
 cualquiera— sino **cómo lo entrega**: porciona a la medida de cada cocina
@@ -93,6 +97,26 @@ Buenaventura**, trayendo camarón y producto de mar al Huila.
 En **2019** entra la actual gerente, la empresa se constituye como SAS y
 comienza una etapa de recuperación que continúa hoy.
 
+### Línea de tiempo reciente [Confirmado — presentación propia]
+
+| Año | Hito |
+|---|---|
+| **1984** | Creación de Frigorífico Pacandé |
+| **2015** | Caída del negocio |
+| **2019** | Se constituye la SAS |
+| **2019** | **Ingresan dos nuevas líneas de negocio: Badía y Tramontina** |
+| **2020** | Se abren **rutas de distribución al sur del país** |
+| **2020** | Cierres por pandemia: **se fortalecen las entregas a domicilio** |
+| **2020** | **Se implementan los Frigopacks** |
+| **2021** | Se fortalece la venta de **salmón, camarón y bagre** |
+| Hacia adelante | Escalar · incrementar portafolio · incrementar margen de contribución |
+
+> **Dato importante para entender los Frigopacks:** nacieron en **2020,
+> durante la pandemia**, cuando la gente cocinaba en casa a la fuerza y las
+> entregas a domicilio explotaron. El contexto que los hizo nacer ya no
+> existe. Eso, más que un problema de producto, puede explicar por qué hoy
+> no venden. **[Hipótesis]**
+
 > **Restricción de uso:** el nombre de la fundadora **no se usa en
 > comunicación pública** (decisión suya). Los antecedentes de la crisis de
 > la empresa **no se cuentan públicamente en ninguna versión**. La historia
@@ -140,25 +164,55 @@ cocinas de nuestra región."*
 instituciones y hogares del Huila en todas las materias primas de cocina, y
 el principal punto de venta de productos gourmet del Huila.
 
-> **Advertencia:** la visión menciona "productos con marca propia", que
-> todavía **no existe** (el proyecto de la cazuela no se ha lanzado), y
-> "punto de venta gourmet", que no corresponde al local actual en
-> Surabastos. Es visión, no descripción. **No usar como si fuera realidad.**
+**[Confirmado el 18/09/2026]** Astrid ratifica el propósito central y la
+MEGA como vigentes:
+
+> **Propósito:** "Mejorar e innovar la experiencia de las cocinas de nuestra
+> región."
+>
+> **MEGA:** "Ser el proveedor principal de los restaurantes, instituciones y
+> hogares del Huila en todas las materias primas relacionadas con la cocina.
+> Ser el principal punto de venta de productos gourmet del Huila, donde los
+> clientes disfruten la experiencia de comprar, descubriendo productos de
+> altos estándares de calidad."
+
+> **Advertencia de uso:** la visión menciona "productos con marca propia",
+> que todavía **no existe**, y "punto de venta gourmet", que no corresponde
+> al local actual en Surabastos. Es **meta declarada**, no descripción del
+> presente. No comunicar como si ya fuera realidad.
+>
+> **Ojo:** la propia empresa reconoce en su DOFA que el punto de venta
+> necesita ampliación, y que la competencia gana en experiencia de compra.
+> La MEGA de "principal punto de venta gourmet del Huila" apunta justo a esa
+> debilidad.
 
 ---
 
 ## 6. Valores
 
-**[Confirmado]** — la empresa los tiene declarados por grupo de interés:
+**[Confirmado — versión que la gerencia prefiere, 18/09/2026]**
 
-| Grupo | Valores declarados |
-|---|---|
-| Clientes | Responsabilidad, perseverancia, transparencia, orden y aseo |
-| Trabajadores | Respeto, cooperación y trabajo en equipo, valoración del trabajo, lealtad, honestidad, humanización |
-| Proveedores | Transparencia, compromiso, colaboración, puntualidad, lealtad |
-| Competencia | Respeto, valorar la competencia, humildad, ética |
-| Estado | Transparencia, cumplimiento, puntualidad |
-| Accionistas | Dinamismo, trabajo en equipo, escuchar, honradez |
+Cinco valores, con la definición de la propia empresa:
+
+1. **Transparencia y honestidad** — "con los clientes, nuestro equipo de
+   trabajo y los proveedores."
+2. **Perseverancia y constancia** — "nos mantenemos constantes y sin
+   flaquear ante los retos propuestos hasta alcanzar su objetivo."
+3. **Aprendizaje y adaptación** — "es muy importante mantenernos con la
+   actitud de aprender y adaptarnos; con ello podemos cada vez ser más
+   refinados en la atención a nuestros clientes."
+4. **Respeto y reconocimiento a los empleados** — "dando valor a cada uno de
+   nuestros colaboradores y teniendo en cuenta su parte humana, sus
+   necesidades, conflictos y alegrías personales, los motivamos a su propio
+   crecimiento personal y laboral."
+5. **Calidad** — "siempre queremos ofrecer las mejores condiciones en
+   nuestros productos y un servicio superior a las que el cliente espera
+   recibir."
+
+> Esta versión reemplaza, para efectos de comunicación, la matriz de valores
+> por grupo de interés del material anterior. La matriz sigue siendo válida
+> como documento interno de gestión, pero **estos cinco son los que se
+> comunican**.
 
 ---
 
@@ -354,6 +408,24 @@ verificada**.
 ---
 
 ## 10. Público objetivo
+
+### Peso real de cada segmento [Confirmado — segmentación propia de la empresa]
+
+La empresa tiene una segmentación ponderada por cinco criterios. Resultado:
+
+| Segmento | Participación en ingresos | Puntaje total ponderado |
+|---|---|---|
+| **Restaurantes** | **38%** | **158** |
+| Cuantías menores (consumidor final / hogares) | 25% | 115 |
+| Clubes y casinos | 13% | 98 |
+| Comercializadores | 20% | 70 |
+| Colegios | 4% | 59 |
+
+**Cómo leerlo:** los restaurantes son el primer segmento tanto por ingresos
+como en el puntaje global. Los **clubes y casinos** pesan poco en ingresos
+(13%) pero son los que **más comprobantes generan** (35 sobre 100), es
+decir, **compran con mucha más frecuencia**. Los colegios son marginales hoy
+(4%), pese a ser un segmento con potencial.
 
 ### ICP principal 1 — Restaurantes **[Confirmado]**
 
@@ -567,26 +639,80 @@ contra un competidor con nombre propio.**
 
 ## 19. Competidores y alternativas
 
-**Competidores directos conocidos [Confirmado]:** Dispez, El Gran
-Langostino, Dismarsur, Fresmark, Anacla, Viento.
+### Competidores directos [Confirmado]
 
-**Lo que hace bien la competencia [Confirmado]:**
-- Algunos tienen mejores precios.
-- Uno de ellos tiene una **despensa grande** y **un punto de venta muy bien
-  presentado** — mejor que el local de Pacandé en Surabastos.
-- **Venta en ruta:** carros que van de restaurante en restaurante.
-- Grandes importadores han **abierto sede en Neiva**.
+**Dispez · Dismarsur · El Gran Langostino · Fresmar · Ancla y Viento ·
+Hipermarfish**
 
-**Alternativas del cliente [Confirmado]:** cuando un cliente deja de comprar
-en Pacandé, **le compra a otro** — no deja de comprar ni lo resuelve
-internamente.
+*(En el análisis propio de la empresa, Dispez, Dismarsur y El Gran
+Langostino figuran como competidores establecidos, y Fresmar, Ancla y Viento
+y las ventas informales como nuevos entrantes.)*
+
+### En qué es buena la competencia local [Confirmado — análisis propio]
+
+- **Son importadores** (Pacandé todavía no lo es).
+- Tienen **sedes en grandes ciudades**.
+- Sus **puntos de venta ofrecen una experiencia agradable al cliente**.
+- Venden **al por mayor**.
+- Tienen **rutas de entrega a ciudades intermedias**.
+- Son **proveedores de grandes superficies**.
+- Tienen **capacidad de frío**.
+
+### En qué NO es buena la competencia local [Confirmado — análisis propio]
+
+- **No llegan al cliente final.**
+- **No están en ciudades intermedias.**
+- **No todos ofrecen presentación de producto individual.**
+- **En porciones al detal sus precios son altos.**
+- **No hay atención personalizada.**
+
+> **Esto resuelve la contradicción del precio.** La competencia es
+> **importadora**: gana en precio **al por mayor**, donde Pacandé no puede
+> competir porque todavía no importa (falta de capital de trabajo, según su
+> propio DOFA). Pero **pierde en porciones al detal, donde sus precios son
+> altos** — que es exactamente lo que dice la comparación interna de precio
+> por porción.
+>
+> **Traducción a estrategia:** Pacandé no debe pelear el bulto. Debe pelear
+> **la porción, la atención personalizada y el cliente final** — los tres
+> huecos que la propia empresa identificó en su competencia.
+
+### Sustitutos [Confirmado]
+
+- **Otras proteínas:** pollo, cerdo, res. *(El research de hogares lo
+  confirma: "es que la carne está más buena" — la carne es la opción segura
+  por default.)*
+- **Condimentos de marca masiva** (tipo Maggi) frente a la línea de
+  especias.
+
+### Alternativas del cliente [Confirmado]
+
+Cuando un cliente deja de comprar en Pacandé, **le compra a otro**. No deja
+de comprar ni lo resuelve internamente.
+
+### Referentes globales de la categoría [Confirmado — análisis propio]
+
+Mercado Mayorista Central Metropolitano de Tokio · Fish Market de Sydney ·
+Mercado de Hamburgo · Fulton Fish Market (Nueva York).
+
+**Qué hacen bien:** portafolio enorme, gran inventario y capacidad de frío,
+**venden también condimentos, especias y cubiertos como complemento de la
+cocina de pescado** (exactamente el modelo de Pacandé), restaurantes
+especializados en el sitio, **escuela de cocina**.
+
+**Qué hacen mal:** horarios de madrugada, cierran al mediodía, **no son
+lugares visualmente agradables**, altos gastos operativos.
+
+> Dos ideas aprovechables: el modelo de "un solo lugar para toda la cocina"
+> está validado en los mercados líderes del mundo, y **la escuela de cocina**
+> es un formato que conecta directo con el dolor #1 documentado en hogares.
 
 > **Regla de comunicación:** **nunca** se nombra ni se alude a un competidor
 > específico en contenido, anuncios, comparaciones o argumentos de venta. El
 > análisis competitivo es de uso interno.
 
-**[Pendiente]** Perfil de cada competidor: público, posicionamiento, precios
-vigentes, fortalezas y debilidades.
+**[Pendiente]** Precios vigentes de cada competidor y de qué fecha son los
+datos comparativos internos.
 
 ---
 
@@ -779,12 +905,43 @@ medida"**.
 
 ### Palabras que evitamos
 
+**Lista explícita de la gerencia [Confirmado]:**
+
+> barato · chévere · regalado · baratísimo · ganga · oferta loca · remate ·
+> pescadito · lastimosamente · de pronto · baratija · común
+
+**Por qué importa esta lista:** son dos familias de palabras.
+
+1. **El vocabulario de lo barato** (barato, regalado, ganga, remate,
+   baratija, baratísimo, oferta loca). Pacandé **no compite por ser lo más
+   barato**, compite por calidad y por precio justo. Decir "barato" destruye
+   el argumento de frescura. *Se dice **precio justo**, **precio por
+   porción**, **le rinde más**, no "barato".*
+2. **El vocabulario de la duda** (lastimosamente, de pronto). La marca
+   responde y cumple; hablar con vaguedad contradice el atributo
+   "confiables". *Se dice **sí**, **no**, **le confirmo hoy** — no "de
+   pronto".*
+
+Y **"pescadito"** y **"común"** rebajan el producto: se dice el nombre real
+del producto.
+
+**Además, se evitan:**
+
 - "Mermas cero", "100% libre de espinas", "listo en 5 minutos" — claims sin
   respaldo.
 - "Somos líderes" en presente.
 - "Gourmet" como adorno vacío.
 - Autoelogio en primera persona ("somos los mejores"). Eso lo dicen los
   clientes en sus reseñas; nosotros los citamos.
+
+### Tratamiento y emojis [Confirmado]
+
+| Canal | Tratamiento | Emojis |
+|---|---|---|
+| Restaurantes, clubes, casinos, colegios, jefes de compras | **Usted**, con calidez | No |
+| Hogares por WhatsApp | **Tú** | Sí, con medida |
+| Instagram y Facebook | **Tú** | Sí |
+| Cotizaciones, correos formales, documentos | **Usted** | No |
 
 ### Ejemplo de tono real (plantilla aprobada, WhatsApp, 27/08/2026)
 
@@ -852,9 +1009,32 @@ producto · catálogo impreso.
 | Rappi | **Inactivo.** "Cobran mucho" y en el Huila no piden productos refrigerados por ahí |
 | Punto de venta Bogotá | Cerrado desde ~2020 |
 
-**[Pendiente]** Quién maneja Instagram y Facebook · frecuencia de publicación
-· qué contenido funciona mejor y peor · si se ha hecho pauta paga y con qué
-resultado · métricas disponibles.
+### Cómo se manejan las redes hoy [Confirmado]
+
+- **Quién:** la hija de Astrid.
+- **Frecuencia:** se intenta **una vez por semana**.
+- **Qué funciona:** **los videos con recetas son los más vistos.** No están
+  medidos, es observación.
+- **Pauta paga:** se ha hecho **pocas veces**, "no lo hicimos bien y no
+  funcionó". **Astrid quiere volver a intentarlo, esta vez bien hecho.**
+- **Métricas:** **no hay ninguna.** Ni seguidores, ni alcance, ni mensajes
+  entrantes medidos.
+
+> **Lo primero que hay que montar es medición.** Sin línea base no se puede
+> saber si algo mejoró, y no se debería volver a pautar a ciegas: ya pasó una
+> vez y costó plata sin retorno.
+>
+> **La señal más útil que existe hoy:** los videos de recetas son lo más
+> visto. Coincide exactamente con el dolor #1 documentado (no saber cocinar
+> pescado) y con lo que la competencia no hace. Es el formato a explotar.
+
+### Página web [Confirmado]
+
+Astrid quiere rehacerla, buscando **una opción que no sea tan costosa**, con
+tres funciones: **ventas**, **mostrar el catálogo** y **presencia**.
+
+*(Antecedente: la anterior estaba en Wix y se cerró porque costaba mucho sin
+retorno.)*
 
 ---
 
@@ -872,6 +1052,43 @@ resultado · métricas disponibles.
    los restaurantes que facturan como consumidor final.
 6. **Montar una alerta de recompra** para detectar a quien dejó de comprar.
 
+### DOFA propio de la empresa [Confirmado]
+
+| Fortalezas | Debilidades |
+|---|---|
+| Servicio al cliente | **Aún no somos importadores, por falta de capital de trabajo** |
+| Ubicación estratégica del punto de venta | Infraestructura pequeña: hay que ampliar punto de venta, cuartos fríos y **sala de proceso** |
+| Calidad de los productos | Vehículo con capacidad insuficiente |
+| Proveedores | Residuos sólidos sin uso particular |
+| **Innovación en la presentación de productos** | |
+
+| Oportunidades | Amenazas |
+|---|---|
+| Interés del cliente por una mejor nutrición | Competencia de grandes distribuidores |
+| Nuevos proveedores | Conflictos sociales |
+| **Expansión olvidada** | Caída de los precios |
+| **Crecimiento de restaurantes en la región** | Cambios climáticos y **órdenes de veda** |
+| **Desarrollo del turismo en el Huila** | Pobres medidas de protección a especies |
+
+> Dos cosas que conectan directo con el resto del documento: la debilidad
+> **"falta sala de proceso"** es exactamente lo que bloquea el lanzamiento
+> de la cazuela propia; y la fortaleza **"innovación en la presentación de
+> productos"** es el porcionado y los Frigopacks.
+
+### Factores del entorno que afectan la comunicación [Confirmado]
+
+- **Fluctuación del dólar** — afecta precios de producto importado.
+- **Vedas y fenómeno de El Niño** — afectan disponibilidad. Hay que evitar
+  prometer disponibilidad permanente de una especie.
+- **Producción acuícola insuficiente** de mojarra y tilapia en la región.
+- **El pescado es más caro que otras proteínas** — es un hecho estructural
+  de la categoría, no un defecto de Pacandé.
+- **Bajo consumo de pescado por habitante** en Colombia.
+- **Después de la pandemia creció el consumo de buenas proteínas** y la
+  oferta de cocina gourmet.
+- **Crecimiento de restaurantes y del turismo en el Huila** — es viento a
+  favor para el objetivo HORECA.
+
 **El desbalance a corregir:**
 
 | Segmento | % de ventas | Research disponible |
@@ -883,14 +1100,23 @@ resultado · métricas disponibles.
 
 ## 28. Objetivos
 
-**[Confirmado, sin cifras]**
+**[Confirmado]**
 
+- **Aumentar un 20% los clientes HORECA.** Es la única meta numérica
+  declarada.
 - Recuperar el liderazgo regional que la empresa tuvo históricamente.
-- Aumentar la base de clientes HORECA.
 - Convertir los Frigopacks en una línea que venda.
+- Volver a hacer pauta paga, esta vez bien hecha.
+- Rehacer la web con una opción económica, para ventas, catálogo y presencia.
 
-**[Pendiente]** Metas numéricas: cuántos clientes HORECA nuevos en 12 meses,
-meta de ventas 2027, meta de unidades de Frigopack.
+**Meta de largo plazo (MEGA declarada):** ser el proveedor principal de
+restaurantes, instituciones y hogares del Huila en todas las materias primas
+de cocina, y el principal punto de venta de productos gourmet del Huila.
+
+**Dirección estratégica declarada en el material propio:** escalar,
+incrementar portafolio e incrementar margen de contribución.
+
+**[Pendiente]** Meta de ventas 2027 y meta de unidades de Frigopack.
 
 ---
 
@@ -907,6 +1133,7 @@ definidos. Los que tienen sentido con la información disponible:
 | Unidades de Frigopack vendidas por mes | Hoy es cero o casi |
 | Pedidos nuevos por referido | Es el canal real de adquisición |
 | Ticket promedio por segmento | Ya hay línea base |
+| Alcance y mensajes entrantes en Instagram y Facebook | **Hoy no se mide nada.** Es el primer paso antes de volver a pautar |
 
 ---
 
@@ -932,7 +1159,7 @@ Se pueden usar hoy, tal cual:
 | Claim | Qué falta |
 |---|---|
 | "Pioneros en la venta de pescado de mar en la región" | Hubo algo en prensa, pero no se tiene la evidencia |
-| "Somos más baratos que la competencia" | Hay datos internos a favor, pero **no se sabe de qué competidor ni de qué fecha** |
+| "Somos más baratos que la competencia" | Hay dos fuentes internas que coinciden (la comparación de precio por porción y el análisis competitivo, que dice que la competencia **tiene precios altos en porciones al detal**), pero falta saber de qué competidor y de qué fecha son los números. **Además, la gerencia prohíbe el vocabulario de "barato"** — si se usa, se comunica como *precio justo por porción*, nunca como "somos los más baratos" |
 | "Producto local del Huila" | Solo aplica a mojarra y tilapia nacional |
 | "Perdemos clientes por precio" | Es una suposición: los clientes se van en silencio |
 | El Frigopack resuelve el miedo a cocinar | Lógicamente encaja, pero **no vende**. Sin validar |
@@ -956,10 +1183,31 @@ Se pueden usar hoy, tal cual:
 7. **No se usan** los claims inventados del documento de la cazuela.
 8. **No se comunica la cazuela de marca propia** como producto existente.
 
-**[Pendiente]** Requisitos INVIMA aplicables · registros sanitarios vigentes
-· reglas de rotulado · qué se puede afirmar sobre frescura y conservación ·
-si se pueden nombrar las marcas que se distribuyen (Tramontina, Yamasa,
-Abadía).
+### Marco regulatorio que aplica [Confirmado]
+
+| Entidad | Exigencia |
+|---|---|
+| **INVIMA** | Que **todos los productos tengan registro**. Los productos que Pacandé **reempaca** deben ir marcados con **fecha, lote y vigencia** |
+| **AUNAP** | **Certificado de comercialización anual** |
+| **Secretaría de Salud** | **Plan de saneamiento ambiental** |
+
+**Obligaciones que la empresa asume [Confirmado]:** responsabilidad sobre lo
+que afirma, **trazabilidad** del producto, y **cuidar y garantizar la cadena
+de frío**.
+
+> **Cómo afecta esto a la comunicación:** cualquier pieza que hable de
+> frescura, origen o conservación tiene que poder respaldarse con
+> trazabilidad real. No se promete lo que no se puede rastrear. Y como hay
+> **vedas y estacionalidad**, no se promete disponibilidad permanente de una
+> especie.
+
+### Marcas que sí se pueden nombrar [Confirmado]
+
+**Tramontina** y **Badía**, en especial. Ambas entraron como líneas de
+negocio en 2019.
+
+**[Pendiente]** Números de registro sanitario vigentes y reglas finas de
+rotulado.
 
 ---
 
@@ -992,6 +1240,9 @@ Abadía).
 - **Entrevista de descubrimiento con Astrid**, gerente general y socia
   (17–18 de septiembre de 2026). Fuente primaria.
 - **PPTX "PACANDE MISION, VISION, MEGA"** (Drive).
+- **PPTX "FRIGORIFICO PACANDE 1 SAS MODULO 1 vLGA"** (Drive) — línea de
+  tiempo, valores, análisis de mercadeo, DOFA, PESTEL, segmentación de
+  clientes y análisis de competencia local y global.
 - **`sobre-mi.md`** — perfil de trabajo de Astrid (Drive).
 - **`CATALOGO PACANDE.pdf`** (Drive).
 - **`Frigopack precios actualizados 2026.xlsx`**, actualizado 22/08/2026 (Drive).
@@ -1016,23 +1267,28 @@ Abadía).
 1. Por qué se van realmente los clientes HORECA (hoy se van en silencio).
 2. De qué competidor y de qué fecha son los precios comparados internos.
 3. Proceso de decisión del cliente institucional (clubes, casinos, colegios).
-4. Metas numéricas para 12 meses.
-5. Testimonio real de un cliente que superó el miedo a cocinar pescado.
+4. Testimonio real de un cliente que superó el miedo a cocinar pescado.
+5. Línea base de métricas de Instagram y Facebook, antes de volver a pautar.
 
 **Prioridad media**
-6. Nombre exacto de las dos tipografías (pedirlo a `diseno@brgsa.com`).
+6. Nombre exacto de las dos tipografías. *Se revisaron los correos con BR
+   Group (marzo–mayo 2023) y los nombres no aparecen en el texto. Hay que
+   pedírselos a `diseno@brgsa.com`, con copia a `ventas4@brgsa.com`,
+   referencia "CAMARON 500 G".*
 7. Decisión entre los dos azules.
-8. Quién maneja redes, con qué frecuencia y con qué resultados.
-9. Requisitos INVIMA y registros sanitarios.
-10. Tuteo vs. usted por canal, y uso de emojis.
-11. Peso en ventas de cada línea de producto.
-12. Cómo NO queremos que nos describan; marcas de referencia.
+8. Meta de ventas 2027 y meta de unidades de Frigopack.
+9. Números de registro sanitario vigentes y reglas finas de rotulado.
+10. Cómo NO queremos que nos describan · arquetipo de marca.
+11. Peso en ventas por **línea de producto** (ya se tiene por tipo de
+    cliente).
 
 **Prioridad baja**
-13. NIT.
-14. Evidencia documental del claim "pioneros".
-15. Perfil detallado de cada competidor.
-16. Actualizar misión y visión a la realidad del negocio.
+12. NIT.
+13. Evidencia documental del claim "pioneros".
+14. Precios vigentes de cada competidor.
+15. Actualizar el texto de misión y visión a la realidad del negocio.
+16. Qué pasó exactamente en la caída de 2015 que aparece en la línea de
+    tiempo.
 
 ---
 
