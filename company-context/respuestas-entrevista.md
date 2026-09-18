@@ -556,3 +556,38 @@ En palabras de Astrid:
 > Se cierran las tres señales que habían aparecido en los archivos. La lista
 > de precios de Rappi y el inventario de Bogotá son **material histórico**,
 > no operación actual.
+
+---
+
+## BLOQUE 3 — Marca (18 sep 2026)
+
+### Los 3 atributos de marca, en palabras de Astrid — CONFIRMADO
+
+1. **Confiables.** "Cumplimos, respondemos y generamos tranquilidad al
+   cliente."
+2. **Personalizado — "hecho a tu medida".** "Entendemos lo que necesita el
+   cliente y nos adaptamos con el producto."
+3. **Innovadores.** "Buscamos nuevas formas de trabajar, servir y
+   facilitarle la vida al cliente."
+
+> Los tres son verificables con hechos del negocio: la garantía de cambio y
+> el domicilio sin mínimo respaldan *confiables*; el porcionado con
+> estándares de gramaje respalda *hecho a tu medida*; los Frigopacks y el
+> proyecto de la cazuela respaldan *innovadores*.
+
+### Tipografías — SIGUE PENDIENTE
+
+Astrid señaló un correo de BR Group con los artes. Se revisó la bandeja de
+`gerencia@frigorificopacande.com`: el intercambio con BR Group
+(`ventas4@brgsa.com` y `diseno@brgsa.com`) es de **marzo a mayo de 2023**,
+no de febrero de 2024, y los artes van como **archivos adjuntos de diseño**.
+**El nombre de las fuentes no aparece en el texto de ningún correo.**
+
+**Cómo cerrarlo:** escribirle directamente a `diseno@brgsa.com` (con copia a
+`ventas4@brgsa.com`) pidiendo los nombres exactos de las dos fuentes del
+arte "CAMARON 500 G".
+
+**Dato útil que sí apareció:** en la revisión de los empaques, Pacandé pidió
+cambiar la palabra "Empacado" por **"Reempacado"**. Es un detalle de
+rotulación con implicaciones de cumplimiento: la empresa **reempaca**, no
+empaca en origen.
