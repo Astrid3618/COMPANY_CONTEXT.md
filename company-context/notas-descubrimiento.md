@@ -20,7 +20,7 @@ Fecha de inicio: 17 de septiembre de 2026.
 | Clientes: HORECA, institucional, supermercados y hogares | sobre-mi.md | — |
 | Cobertura: Huila, Caquetá, Tolima, Cundinamarca | sobre-mi.md | Contradice el foco "Neiva" del material de marketing |
 | Herramientas: WhatsApp Business + Excel, sin CRM formal | sobre-mi.md | — |
-| Ventas 2019–2025 entre $1.126M y $1.945M COP/año; 2025 = $1.945.380.450 | Ventas por año.xlsx | **Confidencial — no publicar** |
+| Serie de ventas anuales 2019–2026 | Ventas por año.xlsx | **Confidencial — las cifras viven en `CONFIDENCIAL-datos-internos.md`, fuera del repositorio** |
 | Junio–agosto 2026: 200 contactos trabajados uno a uno, 26 pedidos, $2.854.000 | skill contexto-de-marca | Dato propio, confirmado por Astrid |
 | 6 reseñas textuales de Google con nombre real | skill contexto-de-marca | Sí se pueden usar públicamente |
 | 4 colores de marca exactos extraídos del material real | skill design-system | #FFFFFF, #002C89, #0078BF, #FF5E0D |

@@ -167,18 +167,15 @@ de usarse en público.**
 
 ### La crisis de 2008 y el renacimiento — CONFIRMADO
 
-- **2008:** perdieron una gran inversión en **6 jaulones de cultivo de
-  mojarra**. Se perdió todo. Quedaron **sin capital de trabajo** y con
-  acreedores: proveedores y bancos.
-- Después del golpe **siguieron "de capa caída"** durante años.
-- **2019:** entra Astrid **invirtiendo dinero y trabajo**, y su **hija
-  economista** entra a apoyar el área financiera.
-- **Hoy:** "hemos pagado todas las deudas y estamos volviendo a renacer".
+En 2008 la empresa sufrió una **crisis por una inversión fallida** en
+producción propia, de la que tardó años en recuperarse. En **2019** entra
+Astrid, y con ella su **hija economista** al área financiera; desde entonces
+la empresa está en recuperación.
 
-> Esto explica el "hemos bajado un poco" de la respuesta anterior. La caída
-> no fue por perder mercado: fue una crisis financiera de 2008 de la que
-> tardaron una década en salir. **Uso interno** salvo que Astrid autorice
-> contarlo.
+> Esto explica el "hemos bajado un poco": la caída **no fue por perder
+> mercado**, fue financiera. El detalle de la crisis está en
+> `CONFIDENCIAL-datos-internos.md`, fuera del repositorio, y **Astrid no ha
+> autorizado contarlo públicamente**.
 
 ### Qué somos — CONFIRMADO
 
@@ -279,9 +276,9 @@ Clientes: **HORECA · institucional · supermercados · hogares.**
 **"El objetivo es tener más clientes HORECA."**
 
 Contexto que dio Astrid: el research de voz del cliente que existe hoy salió
-de un ejercicio que hizo **estando en cama por incapacidad**, contactando
-**sus propios contactos — que son hogares**. El canal HORECA lo manejan
-**facturación y la jefe de logística**, no ella.
+de un ejercicio personal en el que ella contactó **sus propios contactos —
+que son hogares**. El canal HORECA lo manejan **facturación y la jefe de
+logística**, no ella.
 
 **Problema de datos que Astrid identificó sola:** de ese ejercicio nació la
 necesidad de tener una base de datos propia, porque en la base de **SIIGO**
@@ -292,3 +289,72 @@ muchos **clientes de restaurante informales no quieren que se les facture** y
 > segmento del que menos información existe.** Todo el research, los
 > verbatims, los 30 ángulos de contenido y la estrategia de seguimiento son
 > de hogares.
+
+---
+
+## BLOQUE 1 — Tercera tanda: cierre de pendientes (18 sep 2026)
+
+### Fechas de Betania — CONFIRMADO
+
+- **Inicio de obras: 1981.**
+- **Puesta en operación: 1987** (inaugurada el **4 de septiembre de 1987**).
+
+> Pacandé se funda en **1984**, en plena construcción de la represa. La
+> historia encaja: el negocio nace justo cuando llegan los italianos de
+> Impregilo y sus chefs.
+
+### Uso público de la historia de Alba María — RESTRICCIÓN CONFIRMADA
+
+"Sí podemos utilizarlo en la historia, pero a ella casi no le gusta;
+dejémoslo como algo interno."
+
+> **Regla de comunicación:** la historia de la fundadora **no se usa
+> públicamente con su nombre**. Es contexto interno. Pendiente preguntar si
+> se puede contar sin nombrarla ("nuestra fundadora").
+
+### Frigopacks — CORRECCIÓN IMPORTANTE
+
+**"Los Frigopacks casi no se venden. No sé si nos falta una mejor
+estrategia."**
+
+- Se venden **únicamente a hogares**. Nunca se han ofrecido a HORECA ni a
+  institucional.
+- Rango de precio que recuerda Astrid: $80.000 a $120.000.
+- **El precio real del catálogo va de $65.900 a $175.900** (ver
+  `portafolio-y-precios.md`). Hay un desfase entre lo que Astrid recuerda y
+  lo que dice la lista, que vale la pena revisar.
+
+> Corrige la lectura optimista anterior. El Frigopack **es** la respuesta al
+> dolor documentado, pero **hoy no vende**. Eso lo convierte en el problema
+> de marketing más concreto del negocio, no en una fortaleza.
+
+### Competencia — CONFIRMADO (primer dato real que existe)
+
+- **"Ha entrado muchísima competencia."**
+- **Los grandes importadores han puesto sede en Neiva.**
+- **Vienen carros con productos y van de restaurante en restaurante.**
+
+> La competencia hace **venta en ruta puerta a puerta a restaurantes**.
+> Pacandé atiende HORECA de forma pasiva: el cliente llama o va a
+> Surabastos. Ese es el hueco operativo detrás del objetivo "más clientes
+> HORECA".
+
+### Municipios fuera de Neiva — CONFIRMADO
+
+A veces piden de **Natagaima (Tolima)** y **Girardot (Cundinamarca)**, pero
+**"no somos nada fuertes en estos departamentos"**.
+
+> Aclara el pendiente de Tolima: sí llega, pero es marginal. Neiva sigue
+> siendo el 75%.
+
+### Origen del producto — CONFIRMADO (detalle por producto)
+
+| Producto | Origen |
+|---|---|
+| Bagre | Traído del **Amazonas u Orinoquía** |
+| Mojarra y tilapia | **Del Huila, comprada a los productores** |
+| Tilapia (parte) | **Importada** |
+
+> **Cuidado con el claim "producto local".** Solo aplica a mojarra y tilapia
+> nacional; la tilapia importada y el bagre vienen de otra parte. Cualquier
+> mensaje de origen tiene que ser por producto, no general.
