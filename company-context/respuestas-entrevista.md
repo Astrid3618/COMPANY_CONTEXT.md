@@ -144,3 +144,151 @@ cazuela. Estado real:
 19. Ticket promedio en hogar vs. restaurante.
 20. Producto a impulsar prioritariamente.
 21. Domicilio gratis, mínimo de pedido, crédito a restaurantes, garantía.
+
+---
+
+## BLOQUE 1 — Segunda tanda de respuestas (18 sep 2026)
+
+### Historia de origen — CONFIRMADO (versión completa)
+
+En 1984 **Alba María renuncia a su trabajo tradicional** y empieza a vender
+**pollo y huevos**. Los clientes empiezan a preguntarle por **camarón y
+algunos pescados de mar**. Al mismo tiempo llega el **proyecto de Betania**,
+que trae más requerimientos. Ella **investiga por su cuenta y se conecta con
+pescaderías de Buenaventura**.
+
+> La empresa no nació como pescadería: nació vendiendo pollo y huevos y se
+> convirtió en pescadería **porque los clientes lo pidieron**. Ese detalle
+> es más potente que "somos pioneros" y es verificable por relato propio.
+
+**Sobre el claim "pioneros":** "sí hubo algo por la prensa pero ahora no lo
+tengo como evidencia". → **Claim que requiere validación documental antes
+de usarse en público.**
+
+### La crisis de 2008 y el renacimiento — CONFIRMADO
+
+- **2008:** perdieron una gran inversión en **6 jaulones de cultivo de
+  mojarra**. Se perdió todo. Quedaron **sin capital de trabajo** y con
+  acreedores: proveedores y bancos.
+- Después del golpe **siguieron "de capa caída"** durante años.
+- **2019:** entra Astrid **invirtiendo dinero y trabajo**, y su **hija
+  economista** entra a apoyar el área financiera.
+- **Hoy:** "hemos pagado todas las deudas y estamos volviendo a renacer".
+
+> Esto explica el "hemos bajado un poco" de la respuesta anterior. La caída
+> no fue por perder mercado: fue una crisis financiera de 2008 de la que
+> tardaron una década en salir. **Uso interno** salvo que Astrid autorice
+> contarlo.
+
+### Qué somos — CONFIRMADO
+
+**"Somos comercializadores."** Búsqueda permanente de buenos proveedores,
+precios y calidad. No son planta de procesamiento ni productores.
+
+### Operación real — CONFIRMADO
+
+**Compra:** a mayoristas y a **importadores directos**.
+
+**Transformación que sí hacen hoy** (esto es procesamiento real, no
+hipótesis):
+
+| Producto | Cómo llega | Qué le hacen |
+|---|---|---|
+| Salmón | Fileteado, piezas de 2–3 kilos | **Porcionado a la medida del cliente** (ej. 200 g) y **empacado al vacío** |
+| Bagre | Entero | **Rodajado con sierra eléctrica** y empacado |
+| Camarón | En bultos | Embolsado en **libras y kilos** |
+| Cazuela | — | **No se produce todavía** |
+
+**Frase propia de Astrid para esto:** *"hecho a su medida, como un sastre"*.
+
+> Este es un diferenciador real y en palabras propias. No es "mermas cero"
+> (claim inventado por la IA en el doc de la cazuela): es porcionado a la
+> medida del cliente, que es verificable y es lo que de verdad hacen.
+
+**Punto de venta:** local físico en la **central de abastos Surabastos**
+(Neiva). Los clientes van a comprar allí, **y además manejan muchos
+domicilios**.
+
+### Equipo — CONFIRMADO
+
+| Rol | Funciones |
+|---|---|
+| Facturadora | Factura, recibe pedidos, hace la orden de compra y la pasa a bodega |
+| Encargado de bodega | Alista pedidos, recibe producto de proveedores, mantiene los cuartos fríos ordenados, planea el alistamiento con anticipación |
+| Domiciliario en moto | Entregas de domicilio |
+| Conductor de furgón | Trae mercancía de Bogotá y entrega los pedidos grandes a clientes |
+| Auxiliar contable | Contabilidad |
+| Jefe de logística (Alba) | Organiza las entregas y hace pedidos |
+| Astrid | Gerente general y socia |
+| Hija de Astrid (economista) | Apoya el área financiera |
+
+*Pendiente: confirmar si la "Alba" jefe de logística es Alba María, la
+fundadora, o es otra persona.*
+
+### Líneas de negocio — CONFIRMADO (sin pesos)
+
+Pescados · mariscos · pulpas · condimentos · salsas · papa a la francesa y
+yucas croquetas · verduras congeladas · **frigopacks** · utensilios de
+cocina.
+
+Clientes: **HORECA · institucional · supermercados · hogares.**
+
+*Pendiente: el peso en ventas de cada línea y de cada tipo de cliente.*
+
+### Top de productos más vendidos — CONFIRMADO
+
+1. **PULPA DE CHOLUPA S/S X 500 GR**
+2. FILETE DE SALMÓN 2-4 / KILO
+3. FILETE DE MOJARRA / KILO
+4. PAPA A LA FRANCESA 12*12 BOLSA 2.5K
+5. BAGRE ENTERO O EN RODAJA / KILO
+6. MOJARRA ROJA SESA 550-700 / KILO
+7. CAMARÓN
+8. TRUCHA MARIPOSA / KILO
+9. FILETE DE RÓBALO / KILO
+10. LOMITOS DE MOJARRA / UND
+11. PULPA DE MARACUYÁ X 500 GR
+
+> **Hallazgo:** el producto #1 no es pescado, es **pulpa de cholupa** —
+> fruta con denominación de origen del Huila. Y hay dos pulpas en el top.
+> Todo el marketing actual habla solo de pescados y mariscos.
+
+### Ticket promedio — CONFIRMADO
+
+| Segmento | Ticket |
+|---|---|
+| Hogares | $84.000 – $110.000 |
+| Restaurante pequeño | Desde $120.000 |
+| Restaurante grande | $600.000 – $1.000.000 y más |
+
+### Productos a impulsar — CONFIRMADO
+
+- **Hogares:** volverse fuerte con los **Frigopacks**.
+- **Restaurantes:** papa a la francesa, salmón, róbalo, atún, pulpas, bagre.
+
+### Condiciones comerciales — CONFIRMADO
+
+- **Domicilio gratis para restaurantes, sin mínimo de pedido.**
+- **Domicilio a hogares: $4.000.**
+- **Crédito a restaurantes: "muy controlado".**
+- **Garantía: siempre cambian el producto, incluso cuando no es
+  responsabilidad de Pacandé.**
+
+### Objetivo declarado y el hueco que revela — CONFIRMADO
+
+**"El objetivo es tener más clientes HORECA."**
+
+Contexto que dio Astrid: el research de voz del cliente que existe hoy salió
+de un ejercicio que hizo **estando en cama por incapacidad**, contactando
+**sus propios contactos — que son hogares**. El canal HORECA lo manejan
+**facturación y la jefe de logística**, no ella.
+
+**Problema de datos que Astrid identificó sola:** de ese ejercicio nació la
+necesidad de tener una base de datos propia, porque en la base de **SIIGO**
+muchos **clientes de restaurante informales no quieren que se les facture** y
+**se facturan como consumidor final** — así que son invisibles en el sistema.
+
+> Consecuencia directa: **el objetivo #1 del negocio (HORECA) es justo el
+> segmento del que menos información existe.** Todo el research, los
+> verbatims, los 30 ángulos de contenido y la estrategia de seguimiento son
+> de hogares.
