@@ -1059,9 +1059,44 @@ licencia; **redistribuir el archivo .TTF** —por ejemplo compartiéndolo en
 una carpeta de Drive— no lo está. Vale la pena restringir quién accede a esa
 carpeta.
 
-**[Pendiente]**
-- Confirmar con BR Group que el **empaque impreso** usa efectivamente estas
-  dos fuentes, y si ellos manejan una licencia propia.
+### Respuestas recibidas sobre la licencia y el vector (sep 2026)
+
+**Paola Tovar Marketing — respuesta del 21 de septiembre de 2026.**
+Respondieron de forma clara y es un **no en los tres puntos**:
+
+- Cuando empezaron a trabajar con Pacandé, **la marca y el logotipo ya
+  existían**. Su alcance fue **administración de redes sociales y creación
+  de contenidos**; **no participaron en el diseño original del logo**.
+- **No tienen soportes** que confirmen la compra de una licencia comercial
+  de Ananda Black.
+- **No tienen el archivo vectorial original** en AI ni EPS.
+- **No pueden confirmar** los códigos de color originales de la marca.
+- Los archivos de la carpeta TIPOGRAFIA eran **recursos de apoyo** para
+  producir piezas de redes, no el material fuente de la identidad.
+
+> **Consecuencia:** la licencia de Ananda Black **sigue sin resolverse**, y
+> la pregunta ya no es para Paola Tovar Marketing. Hay que buscar a quien
+> creó el logo originalmente, que es anterior a ellos. **Dos pistas en los
+> propios archivos de Drive:** el `Logo SVG.svg` pertenece a
+> `jhrocketagencia@gmail.com`, y los portafolios antiguos a
+> `redeshayplan@gmail.com`. Son los dos candidatos a haber hecho la
+> identidad original.
+
+**BR Group — respuesta del 22–23 de septiembre de 2026.**
+Alberto Mariño, director de diseño, respondió enviando un archivo:
+**`FICHA TÉCNICA DEL EMPAQUE PACANDE.docx`**.
+
+- **No respondió por escrito** ninguna de las cuatro preguntas.
+- En particular, **no respondió la pregunta de la licencia de Ananda**.
+- El contenido de la ficha técnica **está sin revisar**: el archivo llegó
+  como adjunto de correo y no se ha podido abrir.
+
+**[Pendiente inmediato]** Guardar `FICHA TÉCNICA DEL EMPAQUE PACANDE.docx`
+en Google Drive para poder leerla y extraer de ahí los Pantone, los CMYK y
+las tipografías del arte impreso.
+
+**[Pendiente]** Repreguntarle a BR Group, por escrito, **si manejan licencia
+comercial de Ananda Black** — esa pregunta quedó sin contestar.
 - **Cuál es el azul marino correcto:** `#002C89` (extraído del logo oficial)
   o `#263878` (el del vector calcado). Se necesita el vector original o el
   Pantone del impresor.
@@ -1383,7 +1418,10 @@ rotulado.
 
 **Prioridad media**
 6. **Licencia comercial de la tipografía Ananda Black Personal Use.**
-   Resolver con la agencia o comprándola al autor. *(Ver sección 25.)*
+   Paola Tovar Marketing confirmó que **no la tienen y que no hicieron el
+   logo**. Quedan dos caminos: ubicar a la agencia que creó la identidad
+   original (`jhrocketagencia@gmail.com` o `redeshayplan@gmail.com`), o
+   comprarla directamente a Billy Argel. *(Ver sección 25.)*
 7. Decisión entre los dos azules y cuál es el azul marino correcto.
 8. Meta de ventas 2027 y meta de unidades de Frigopack.
 9. Números de registro sanitario vigentes y reglas finas de rotulado.
