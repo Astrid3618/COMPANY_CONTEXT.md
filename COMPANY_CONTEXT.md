@@ -1014,8 +1014,13 @@ septiembre de 2022. Se leyeron por dentro las tablas de nombres:
 
 | Uso | Fuente | Detalle del archivo |
 |---|---|---|
-| **Textos informativos** ("frigorífico", etiquetas, empaque) | **Century Gothic** | Monotype Typography, versión 2.35. Disponibles Regular, Bold, Italic y Bold Italic |
-| **Nombre de marca "Pacandé"** | **Ananda Black Personal Use** | Billy Argel, 2019 |
+| **Piezas digitales y redes** (carpeta de marca de la agencia) | **Century Gothic** | Monotype Typography, versión 2.35. Regular, Bold, Italic y Bold Italic |
+| **Nombre de marca "Pacandé"** (carpeta de marca de la agencia) | **Ananda Black Personal Use** | Billy Argel, 2019 |
+| **Empaque impreso** (ficha técnica de BR Group) | **Montserrat · Takeaway Black · Bebas Neue** | Confirmado por el impresor, septiembre 2026 |
+
+> **Atención: hay dos juegos de tipografías conviviendo.** El de la carpeta
+> de la agencia de redes y el del empaque impreso. No son los mismos. Hay
+> que decidir cuál es el oficial — ver más abajo.
 
 **Century Gothic encaja con la regla de forma del design system:** es una
 sans geométrica, de trazo circular. Es exactamente lo contrario de la
@@ -1059,9 +1064,95 @@ licencia; **redistribuir el archivo .TTF** —por ejemplo compartiéndolo en
 una carpeta de Drive— no lo está. Vale la pena restringir quién accede a esa
 carpeta.
 
-**[Pendiente]**
-- Confirmar con BR Group que el **empaque impreso** usa efectivamente estas
-  dos fuentes, y si ellos manejan una licencia propia.
+### Respuestas recibidas sobre la licencia y el vector (sep 2026)
+
+**Paola Tovar Marketing — respuesta del 21 de septiembre de 2026.**
+Respondieron de forma clara y es un **no en los tres puntos**:
+
+- Cuando empezaron a trabajar con Pacandé, **la marca y el logotipo ya
+  existían**. Su alcance fue **administración de redes sociales y creación
+  de contenidos**; **no participaron en el diseño original del logo**.
+- **No tienen soportes** que confirmen la compra de una licencia comercial
+  de Ananda Black.
+- **No tienen el archivo vectorial original** en AI ni EPS.
+- **No pueden confirmar** los códigos de color originales de la marca.
+- Los archivos de la carpeta TIPOGRAFIA eran **recursos de apoyo** para
+  producir piezas de redes, no el material fuente de la identidad.
+
+> **Consecuencia:** la licencia de Ananda Black **sigue sin resolverse**, y
+> la pregunta ya no es para Paola Tovar Marketing. Hay que buscar a quien
+> creó el logo originalmente, que es anterior a ellos. **Dos pistas en los
+> propios archivos de Drive:** el `Logo SVG.svg` pertenece a
+> `jhrocketagencia@gmail.com`, y los portafolios antiguos a
+> `redeshayplan@gmail.com`. Son los dos candidatos a haber hecho la
+> identidad original.
+
+**BR Group — respuesta del 22–23 de septiembre de 2026.**
+Alberto Mariño, director de diseño, respondió enviando un archivo:
+**`FICHA TÉCNICA DEL EMPAQUE PACANDE.docx`**.
+
+- **No respondió por escrito** ninguna de las cuatro preguntas.
+- En particular, **no respondió la pregunta de la licencia de Ananda**.
+- El contenido de la ficha técnica **está sin revisar**: el archivo llegó
+  como adjunto de correo y no se ha podido abrir.
+
+### Ficha técnica del empaque CAMARÓN 500 G — leída [Confirmado]
+
+Documento oficial de BR Group, recibido el 23 de septiembre de 2026.
+
+**Colores Pantone del arte impreso — este es el dato autoritativo:**
+
+| | Color |
+|---|---|
+| 1 | **Pantone 3005 C** |
+| 2 | **Pantone 7680 C** |
+| 3 | Blanco |
+| 4 | Negro |
+| 5 | Cian |
+| 6 | Amarillo |
+| 7 | Magenta |
+
+> Pantone 3005 C es un azul consistente con el azul secundario de marca
+> (`#0078BF`), lo cual **respalda que ese es el azul correcto**. La
+> equivalencia exacta en hexadecimal **queda pendiente de verificar contra
+> una guía Pantone Color Bridge**: la conversión de tinta a pantalla no es
+> exacta y varía según la edición de la guía. **No inventar el valor.**
+
+**Tipografías del arte impreso — y aquí está la sorpresa:**
+
+- **Montserrat** — Semibold, Bold, Regular, Light, Medium
+- **Takeaway Black** — Regular
+- **Bebas Neue** — Bold
+
+> **El empaque impreso NO usa Century Gothic ni Ananda Black.** Usa otras
+> tres familias. Es decir: **el empaque y las piezas de redes se hicieron
+> con tipografías distintas.** La marca viene operando con dos juegos de
+> fuentes en paralelo sin que nadie lo notara.
+
+**Qué significa para la licencia:**
+
+- **Montserrat** y **Bebas Neue** son fuentes de licencia abierta (SIL Open
+  Font License), **libres para uso comercial**. No hay problema con ellas.
+- **Takeaway Black**: licencia **[Pendiente de verificar]**.
+- La alerta de **Ananda Black sigue vigente pero cambia de alcance**: no
+  está en el empaque impreso, así que el riesgo se limita a las piezas
+  donde sí se usó (redes, papelería) y a la creación del logotipo, que
+  nadie ha podido confirmar.
+
+**Artes editables: NO EXISTEN.** La ficha dice textualmente:
+*"En el momento no se cuenta con archivo."*
+
+> **Riesgo operativo real:** ni Paola Tovar Marketing ni BR Group tienen el
+> archivo editable del logo ni del arte. **Nadie tiene el original.** Si
+> algún día hay que modificar el empaque o ampliar el logo para un aviso
+> grande, toca reconstruirlo desde cero. Vale la pena encargar una
+> **revectorización profesional del logo**, partiendo del arte impreso, y
+> archivarla como la versión maestra de aquí en adelante.
+
+**[Pendiente]** Repreguntarle a BR Group, por escrito, **si manejan licencia
+comercial de Ananda Black** — esa pregunta quedó sin contestar. *(Aunque con
+la ficha a la vista, la pregunta más útil ahora es si el logotipo del
+empaque está en curvas y con qué fuente se construyó originalmente.)*
 - **Cuál es el azul marino correcto:** `#002C89` (extraído del logo oficial)
   o `#263878` (el del vector calcado). Se necesita el vector original o el
   Pantone del impresor.
@@ -1383,8 +1474,17 @@ rotulado.
 
 **Prioridad media**
 6. **Licencia comercial de la tipografía Ananda Black Personal Use.**
-   Resolver con la agencia o comprándola al autor. *(Ver sección 25.)*
+   Paola Tovar Marketing confirmó que **no la tienen y que no hicieron el
+   logo**. Quedan dos caminos: ubicar a la agencia que creó la identidad
+   original (`jhrocketagencia@gmail.com` o `redeshayplan@gmail.com`), o
+   comprarla directamente a Billy Argel. *(Ver sección 25.)*
 7. Decisión entre los dos azules y cuál es el azul marino correcto.
+   *Avance: la ficha del impresor confirma **Pantone 3005 C** y **Pantone
+   7680 C**; falta su equivalencia exacta en hexadecimal.*
+8. **Unificar las tipografías.** Hoy el empaque usa Montserrat, Takeaway
+   Black y Bebas Neue, mientras las piezas digitales usan Century Gothic y
+   Ananda. Hay que elegir un solo juego.
+9. **Revectorizar el logo.** Nadie conserva el archivo editable original.
 8. Meta de ventas 2027 y meta de unidades de Frigopack.
 9. Números de registro sanitario vigentes y reglas finas de rotulado.
 10. Cómo NO queremos que nos describan · arquetipo de marca.
