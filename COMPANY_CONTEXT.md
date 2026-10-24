@@ -37,6 +37,11 @@ los hogares son el complemento.
 
 **La meta declarada:** aumentar un **20% los clientes HORECA**.
 
+**El riesgo estructural, confirmado con datos de SIIGO en octubre de 2026:**
+**un solo cliente concentra el 49,8% de las ventas facturadas a clientes con
+nombre**, y 38 clientes hacen el 70%. Mientras esa cuenta crece, el resto de
+la cartera viene cayendo. Ver `plan-comercial.md`.
+
 Lo que hace distinto a Pacandé no es el producto en sí —lo consigue
 cualquiera— sino **cómo lo entrega**: porciona a la medida de cada cocina
 ("hecho a tu medida"), con estándares de gramaje escritos, empaque al vacío,
@@ -409,7 +414,33 @@ verificada**.
 
 ## 10. Público objetivo
 
-### Peso real de cada segmento [Confirmado — segmentación propia de la empresa]
+### Peso real de cada segmento — datos de SIIGO [Confirmado, octubre 2026]
+
+Tipificación de 442 clientes con nombre, facturas de enero de 2020 al 23 de
+septiembre de 2026, sin IVA. Detalle completo en `tipificacion-2026.md`.
+
+| Segmento | Clientes | % ventas 2026 |
+|---|---|---|
+| **Cuenta clave (un solo restaurante)** | **1** | **49,8%** |
+| Institucional | 5 | 13,9% |
+| Restaurante | 15 | 9,7% |
+| Persona natural | 315 | 9,5% |
+| Empresa por clasificar | 97 | 6,7% |
+| Heladería / industria | 1 | 4,1% |
+| Supermercado | 2 | 3,2% |
+| Club / hotel | 6 | 3,1% |
+
+**Estado de la cartera:** 91 activos · 22 en riesgo · 13 dormidos · **179
+perdidos** (con $750 M históricos) · 136 de una sola compra · 1 migrado.
+
+**Frecuencia:** 38 clientes compran semanal o más y hacen el **69,9%** de la
+venta.
+
+> Estos datos **reemplazan** la segmentación ponderada que la empresa tenía
+> en su presentación interna, que daba restaurantes 38% y no reflejaba la
+> concentración real en una sola cuenta.
+
+### Segmentación ponderada anterior [Material interno previo]
 
 La empresa tiene una segmentación ponderada por cinco criterios. Resultado:
 
@@ -1300,8 +1331,12 @@ retorno.)*
 
 **[Confirmado]**
 
-- **Aumentar un 20% los clientes HORECA.** Es la única meta numérica
-  declarada.
+- **Aumentar un 20% los clientes HORECA.** Es la meta declarada por la
+  gerencia.
+- **Metas cuantificadas en `plan-comercial.md` (octubre 2026):** ventas a
+  clientes con nombre de ~$1.400 M a **$1.600 M**; participación del cliente
+  #1 de 49,8% a **≤42%**; clientes activos de 91 a **115**; margen del
+  portafolio de 27,9% a **29,5%**.
 - Recuperar el liderazgo regional que la empresa tuvo históricamente.
 - Convertir los Frigopacks en una línea que venda.
 - Volver a hacer pauta paga, esta vez bien hecha.
@@ -1332,6 +1367,11 @@ definidos. Los que tienen sentido con la información disponible:
 | Pedidos nuevos por referido | Es el canal real de adquisición |
 | Ticket promedio por segmento | Ya hay línea base |
 | Alcance y mensajes entrantes en Instagram y Facebook | **Hoy no se mide nada.** Es el primer paso antes de volver a pautar |
+| **Ventas separando el cliente #1 del resto de la cartera** | **El indicador que manda.** Mirar el total escondió un año de caída en el resto |
+| Participación del cliente #1 en el total | Mide el riesgo de concentración |
+| Clientes reactivados en el mes | Mide la palanca 2 del plan comercial |
+| Margen promedio del portafolio | Hoy 27,9%. Las Vacas lo arrastran |
+| % de ventas de mostrador con nombre y celular capturados | Hoy el 27% de la facturación es anónima |
 
 ---
 
@@ -1434,6 +1474,10 @@ rotulado.
 | Hoja de seguimiento WhatsApp | CRM | Drive, carpeta CLIENTES 2026 | Seguimiento a hogares | Vigente |
 | Plantilla WhatsApp aprobada | Copy | Drive, carpeta CLIENTES 2026 | Recordatorio de pedido | Vigente (27/08/2026) |
 | Reseñas de Google | Prueba social | Google Business | Testimonios públicos | Vigente |
+| Tipificación de clientes | Analytics | Drive + `tipificacion-2026.md` | Estado y frecuencia de 442 clientes | Vigente, oct 2026 |
+| Tipificación de productos | Analytics | Drive + `tipificacion-2026.md` | Roles del portafolio, 183 refs | Vigente, oct 2026 |
+| Plan comercial | Estrategia | `plan-comercial.md` | Cinco palancas y metas 2027 | Vigente, oct 2026 |
+| Agente de ventas | Ventas | `agente-de-ventas/` | A quién contactar y qué decirle | Listo para usar |
 
 ---
 
@@ -1449,7 +1493,11 @@ rotulado.
 - **`CATALOGO PACANDE.pdf`** (Drive).
 - **`Frigopack precios actualizados 2026.xlsx`**, actualizado 22/08/2026 (Drive).
 - **`Ventas por año.xlsx`** (Drive) — cifras tratadas como confidenciales.
-- **Correos con BR Group**, marzo–mayo de 2023 (Gmail).
+- **Correos con BR Group**, marzo–mayo de 2023 y septiembre de 2026 (Gmail).
+- **`Tipificacion_clientes_Pacande.xlsx`** — Next Level Pro, SIIGO de enero
+  de 2020 al 23 de septiembre de 2026.
+- **`Tipificación de productos y depuración del portafolio.pptx`** — comité
+  de compras del 5 de octubre de 2026.
 - **Skill `contexto-de-marca`**: verbatims, objeciones, estrategia de
   seguimiento, ángulos, estructuras prestadas, design system, encuesta
   (agosto 2026).
@@ -1466,7 +1514,11 @@ rotulado.
 ## 35. Información pendiente
 
 **Prioridad alta**
-1. Por qué se van realmente los clientes HORECA (hoy se van en silencio).
+0. **Reducir la concentración en el cliente #1 (49,8% de la venta).** Es el
+   riesgo más grande del negocio. Ver `plan-comercial.md`.
+1. Por qué se van realmente los clientes HORECA. *Parcialmente respondido:
+   ya se sabe **quiénes** están cayendo; falta la razón, que solo sale de la
+   visita.*
 2. De qué competidor y de qué fecha son los precios comparados internos.
 3. Proceso de decisión del cliente institucional (clubes, casinos, colegios).
 4. Testimonio real de un cliente que superó el miedo a cocinar pescado.
