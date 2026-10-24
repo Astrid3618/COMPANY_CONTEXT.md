@@ -249,7 +249,29 @@ producto a la medida de cada cliente** antes de entregarlo:
 
 **Origen del producto [Confirmado]:** bagre del Amazonas u Orinoquía;
 mojarra y tilapia del Huila compradas directamente a productores; parte de
-la tilapia es importada.
+la tilapia es importada; atún de Bahía Solano.
+
+### Glaseo — qué lleva y qué no [Confirmado, 24 de octubre de 2026]
+
+**Pacandé no glasea.** El producto llega ya glaseado del proveedor o del
+importador; Pacandé **comercializa**.
+
+| Producto | Glaseo |
+|---|---|
+| **Salmón** | **No lleva** |
+| **Trucha** | **No lleva** |
+| **Bagre** | **No lleva** |
+| Tilapia importada | Sí |
+| Camarón | Sí |
+
+**Máximos permitidos:** hasta **30% en camarón** y hasta **20% en los
+demás** productos.
+
+> **Decisión de comunicación:** la gerencia pidió **no construir mensajes
+> alrededor del glaseo** — es un tema difícil de explicar en formatos
+> cortos y no se controla, porque el producto llega así. **Sí es un
+> argumento de venta uno a uno con un chef**, que entiende el tema de
+> inmediato. Ver `agente-de-ventas/resources/guiones.md`.
 
 > **Cuidado:** no se puede afirmar "producto local" de forma general. El
 > origen se comunica **producto por producto**.
@@ -1437,7 +1459,7 @@ Se pueden usar hoy, tal cual:
 | "Pioneros en la venta de pescado de mar en la región" | Hubo algo en prensa, pero no se tiene la evidencia |
 | "Somos más baratos que la competencia" | Hay dos fuentes internas que coinciden (la comparación de precio por porción y el análisis competitivo, que dice que la competencia **tiene precios altos en porciones al detal**), pero falta saber de qué competidor y de qué fecha son los números. **Además, la gerencia prohíbe el vocabulario de "barato"** — si se usa, se comunica como *precio justo por porción*, nunca como "somos los más baratos" |
 | "Producto local del Huila" | Solo aplica a mojarra y tilapia nacional |
-| **"Pagas pescado, no hielo" / "sin glaseo"** | **PROHIBIDO.** La gerencia confirmó (24 oct 2026) que **Pacandé sí maneja glaseo**, dentro de lo permitido y sin exagerar. El mensaje usable es *"el glaseo protege el pescado, el exceso se lo cobra"*, y requiere tener el porcentaje exacto para poder citarlo |
+| **"Pagas pescado, no hielo" / "nuestro producto no tiene glaseo"** como afirmación general | **PROHIBIDO.** Hay glaseo en tilapia importada y camarón. **Sí se puede afirmar, producto por producto, que el salmón, la trucha y el bagre no llevan glaseo** (confirmado 24 oct 2026). La gerencia decidió además **no usar el glaseo como eje de comunicación pública**: queda como argumento de venta directa con chefs |
 | "Perdemos clientes por precio" | Es una suposición: los clientes se van en silencio |
 | El Frigopack resuelve el miedo a cocinar | Lógicamente encaja, pero **no vende**. Sin validar |
 

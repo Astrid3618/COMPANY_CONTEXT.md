@@ -134,3 +134,44 @@ esta semana?", se perdió la venta y la conversación.
 - Las palabras prohibidas: barato, chévere, regalado, baratísimo, ganga,
   oferta loca, remate, pescadito, lastimosamente, de pronto, baratija,
   común.
+
+---
+
+## 9. El argumento del glaseo — solo cara a cara con un chef
+
+**No va en redes.** Es un tema que en un video de 30 segundos se enreda y no
+aporta. Pero en una visita o una llamada con un jefe de compras **es de los
+argumentos más fuertes que existen**, porque ellos sí lo entienden de
+inmediato.
+
+### Los hechos, exactos
+
+- **Pacandé no glasea.** El producto llega así del proveedor o del
+  importador. Pacandé comercializa.
+- **No llevan glaseo:** salmón, trucha y bagre.
+- **Sí llevan:** tilapia importada y camarón.
+- **Máximos permitidos:** 30% en camarón, 20% en los demás.
+
+### Cómo se dice
+
+> "Don [nombre], una cosa que le sirve saber: nuestro salmón, la trucha y el
+> bagre **no llevan glaseo**. En tilapia importada y camarón sí hay, porque
+> el producto nos llega así del importador, y el máximo permitido es 30% en
+> camarón y 20% en lo demás. Se lo digo para que cuando compare precios,
+> compare lo mismo."
+
+### Por qué funciona
+
+- **Es verdad y es específico por producto.** No es un eslogan.
+- **La última frase es la que vende:** "para que cuando compare precios,
+  compare lo mismo". Le está dando una herramienta para evaluar a
+  cualquiera, no un argumento a favor de Pacandé.
+- **No ataca a nadie.** No dice que otros exageren. Dice cuál es el máximo y
+  cuál es su caso.
+
+### Lo que nunca se dice
+
+- **"Nuestro producto no tiene glaseo"** a secas. Es falso para tilapia
+  importada y camarón.
+- Que otro proveedor exagere el glaseo. No hay forma de probarlo y entra en
+  terreno de competidores.
