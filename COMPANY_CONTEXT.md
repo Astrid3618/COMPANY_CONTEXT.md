@@ -37,6 +37,11 @@ los hogares son el complemento.
 
 **La meta declarada:** aumentar un **20% los clientes HORECA**.
 
+**El riesgo estructural, confirmado con datos de SIIGO en octubre de 2026:**
+**un solo cliente concentra el 49,8% de las ventas facturadas a clientes con
+nombre**, y 38 clientes hacen el 70%. Mientras esa cuenta crece, el resto de
+la cartera viene cayendo. Ver `plan-comercial.md`.
+
 Lo que hace distinto a Pacandé no es el producto en sí —lo consigue
 cualquiera— sino **cómo lo entrega**: porciona a la medida de cada cocina
 ("hecho a tu medida"), con estándares de gramaje escritos, empaque al vacío,
@@ -244,7 +249,29 @@ producto a la medida de cada cliente** antes de entregarlo:
 
 **Origen del producto [Confirmado]:** bagre del Amazonas u Orinoquía;
 mojarra y tilapia del Huila compradas directamente a productores; parte de
-la tilapia es importada.
+la tilapia es importada; atún de Bahía Solano.
+
+### Glaseo — qué lleva y qué no [Confirmado, 24 de octubre de 2026]
+
+**Pacandé no glasea.** El producto llega ya glaseado del proveedor o del
+importador; Pacandé **comercializa**.
+
+| Producto | Glaseo |
+|---|---|
+| **Salmón** | **No lleva** |
+| **Trucha** | **No lleva** |
+| **Bagre** | **No lleva** |
+| Tilapia importada | Sí |
+| Camarón | Sí |
+
+**Máximos permitidos:** hasta **30% en camarón** y hasta **20% en los
+demás** productos.
+
+> **Decisión de comunicación:** la gerencia pidió **no construir mensajes
+> alrededor del glaseo** — es un tema difícil de explicar en formatos
+> cortos y no se controla, porque el producto llega así. **Sí es un
+> argumento de venta uno a uno con un chef**, que entiende el tema de
+> inmediato. Ver `agente-de-ventas/resources/guiones.md`.
 
 > **Cuidado:** no se puede afirmar "producto local" de forma general. El
 > origen se comunica **producto por producto**.
@@ -409,7 +436,33 @@ verificada**.
 
 ## 10. Público objetivo
 
-### Peso real de cada segmento [Confirmado — segmentación propia de la empresa]
+### Peso real de cada segmento — datos de SIIGO [Confirmado, octubre 2026]
+
+Tipificación de 442 clientes con nombre, facturas de enero de 2020 al 23 de
+septiembre de 2026, sin IVA. Detalle completo en `tipificacion-2026.md`.
+
+| Segmento | Clientes | % ventas 2026 |
+|---|---|---|
+| **Cuenta clave (un solo restaurante)** | **1** | **49,8%** |
+| Institucional | 5 | 13,9% |
+| Restaurante | 15 | 9,7% |
+| Persona natural | 315 | 9,5% |
+| Empresa por clasificar | 97 | 6,7% |
+| Heladería / industria | 1 | 4,1% |
+| Supermercado | 2 | 3,2% |
+| Club / hotel | 6 | 3,1% |
+
+**Estado de la cartera:** 91 activos · 22 en riesgo · 13 dormidos · **179
+perdidos** (con $750 M históricos) · 136 de una sola compra · 1 migrado.
+
+**Frecuencia:** 38 clientes compran semanal o más y hacen el **69,9%** de la
+venta.
+
+> Estos datos **reemplazan** la segmentación ponderada que la empresa tenía
+> en su presentación interna, que daba restaurantes 38% y no reflejaba la
+> concentración real en una sola cuenta.
+
+### Segmentación ponderada anterior [Material interno previo]
 
 La empresa tiene una segmentación ponderada por cinco criterios. Resultado:
 
@@ -1014,8 +1067,13 @@ septiembre de 2022. Se leyeron por dentro las tablas de nombres:
 
 | Uso | Fuente | Detalle del archivo |
 |---|---|---|
-| **Textos informativos** ("frigorífico", etiquetas, empaque) | **Century Gothic** | Monotype Typography, versión 2.35. Disponibles Regular, Bold, Italic y Bold Italic |
-| **Nombre de marca "Pacandé"** | **Ananda Black Personal Use** | Billy Argel, 2019 |
+| **Piezas digitales y redes** (carpeta de marca de la agencia) | **Century Gothic** | Monotype Typography, versión 2.35. Regular, Bold, Italic y Bold Italic |
+| **Nombre de marca "Pacandé"** (carpeta de marca de la agencia) | **Ananda Black Personal Use** | Billy Argel, 2019 |
+| **Empaque impreso** (ficha técnica de BR Group) | **Montserrat · Takeaway Black · Bebas Neue** | Confirmado por el impresor, septiembre 2026 |
+
+> **Atención: hay dos juegos de tipografías conviviendo.** El de la carpeta
+> de la agencia de redes y el del empaque impreso. No son los mismos. Hay
+> que decidir cuál es el oficial — ver más abajo.
 
 **Century Gothic encaja con la regla de forma del design system:** es una
 sans geométrica, de trazo circular. Es exactamente lo contrario de la
@@ -1059,9 +1117,95 @@ licencia; **redistribuir el archivo .TTF** —por ejemplo compartiéndolo en
 una carpeta de Drive— no lo está. Vale la pena restringir quién accede a esa
 carpeta.
 
-**[Pendiente]**
-- Confirmar con BR Group que el **empaque impreso** usa efectivamente estas
-  dos fuentes, y si ellos manejan una licencia propia.
+### Respuestas recibidas sobre la licencia y el vector (sep 2026)
+
+**Paola Tovar Marketing — respuesta del 21 de septiembre de 2026.**
+Respondieron de forma clara y es un **no en los tres puntos**:
+
+- Cuando empezaron a trabajar con Pacandé, **la marca y el logotipo ya
+  existían**. Su alcance fue **administración de redes sociales y creación
+  de contenidos**; **no participaron en el diseño original del logo**.
+- **No tienen soportes** que confirmen la compra de una licencia comercial
+  de Ananda Black.
+- **No tienen el archivo vectorial original** en AI ni EPS.
+- **No pueden confirmar** los códigos de color originales de la marca.
+- Los archivos de la carpeta TIPOGRAFIA eran **recursos de apoyo** para
+  producir piezas de redes, no el material fuente de la identidad.
+
+> **Consecuencia:** la licencia de Ananda Black **sigue sin resolverse**, y
+> la pregunta ya no es para Paola Tovar Marketing. Hay que buscar a quien
+> creó el logo originalmente, que es anterior a ellos. **Dos pistas en los
+> propios archivos de Drive:** el `Logo SVG.svg` pertenece a
+> `jhrocketagencia@gmail.com`, y los portafolios antiguos a
+> `redeshayplan@gmail.com`. Son los dos candidatos a haber hecho la
+> identidad original.
+
+**BR Group — respuesta del 22–23 de septiembre de 2026.**
+Alberto Mariño, director de diseño, respondió enviando un archivo:
+**`FICHA TÉCNICA DEL EMPAQUE PACANDE.docx`**.
+
+- **No respondió por escrito** ninguna de las cuatro preguntas.
+- En particular, **no respondió la pregunta de la licencia de Ananda**.
+- El contenido de la ficha técnica **está sin revisar**: el archivo llegó
+  como adjunto de correo y no se ha podido abrir.
+
+### Ficha técnica del empaque CAMARÓN 500 G — leída [Confirmado]
+
+Documento oficial de BR Group, recibido el 23 de septiembre de 2026.
+
+**Colores Pantone del arte impreso — este es el dato autoritativo:**
+
+| | Color |
+|---|---|
+| 1 | **Pantone 3005 C** |
+| 2 | **Pantone 7680 C** |
+| 3 | Blanco |
+| 4 | Negro |
+| 5 | Cian |
+| 6 | Amarillo |
+| 7 | Magenta |
+
+> Pantone 3005 C es un azul consistente con el azul secundario de marca
+> (`#0078BF`), lo cual **respalda que ese es el azul correcto**. La
+> equivalencia exacta en hexadecimal **queda pendiente de verificar contra
+> una guía Pantone Color Bridge**: la conversión de tinta a pantalla no es
+> exacta y varía según la edición de la guía. **No inventar el valor.**
+
+**Tipografías del arte impreso — y aquí está la sorpresa:**
+
+- **Montserrat** — Semibold, Bold, Regular, Light, Medium
+- **Takeaway Black** — Regular
+- **Bebas Neue** — Bold
+
+> **El empaque impreso NO usa Century Gothic ni Ananda Black.** Usa otras
+> tres familias. Es decir: **el empaque y las piezas de redes se hicieron
+> con tipografías distintas.** La marca viene operando con dos juegos de
+> fuentes en paralelo sin que nadie lo notara.
+
+**Qué significa para la licencia:**
+
+- **Montserrat** y **Bebas Neue** son fuentes de licencia abierta (SIL Open
+  Font License), **libres para uso comercial**. No hay problema con ellas.
+- **Takeaway Black**: licencia **[Pendiente de verificar]**.
+- La alerta de **Ananda Black sigue vigente pero cambia de alcance**: no
+  está en el empaque impreso, así que el riesgo se limita a las piezas
+  donde sí se usó (redes, papelería) y a la creación del logotipo, que
+  nadie ha podido confirmar.
+
+**Artes editables: NO EXISTEN.** La ficha dice textualmente:
+*"En el momento no se cuenta con archivo."*
+
+> **Riesgo operativo real:** ni Paola Tovar Marketing ni BR Group tienen el
+> archivo editable del logo ni del arte. **Nadie tiene el original.** Si
+> algún día hay que modificar el empaque o ampliar el logo para un aviso
+> grande, toca reconstruirlo desde cero. Vale la pena encargar una
+> **revectorización profesional del logo**, partiendo del arte impreso, y
+> archivarla como la versión maestra de aquí en adelante.
+
+**[Pendiente]** Repreguntarle a BR Group, por escrito, **si manejan licencia
+comercial de Ananda Black** — esa pregunta quedó sin contestar. *(Aunque con
+la ficha a la vista, la pregunta más útil ahora es si el logotipo del
+empaque está en curvas y con qué fuente se construyó originalmente.)*
 - **Cuál es el azul marino correcto:** `#002C89` (extraído del logo oficial)
   o `#263878` (el del vector calcado). Se necesita el vector original o el
   Pantone del impresor.
@@ -1124,8 +1268,45 @@ producto · catálogo impreso.
   medidos, es observación.
 - **Pauta paga:** se ha hecho **pocas veces**, "no lo hicimos bien y no
   funcionó". **Astrid quiere volver a intentarlo, esta vez bien hecho.**
-- **Métricas:** **no hay ninguna.** Ni seguidores, ni alcance, ni mensajes
-  entrantes medidos.
+### Línea base de Instagram [Confirmado — captura del 24 de octubre de 2026]
+
+**Primera medición que existe del canal.** Cuenta: `@frigorificopacande`,
+nombre de perfil "Frigorifico Pacandé 🐟 Pesquera".
+
+| Dato | Valor |
+|---|---|
+| Publicaciones acumuladas | 754 |
+| Seguidores | 1.886 |
+| Seguidos | **3.042** |
+| **Visualizaciones, últimos 30 días** | **4.900** |
+| Ubicación en perfil | Surabastos, Neiva, Huila |
+| Enlace | `linktr.ee/frigorificopacande` |
+| Destacadas | Sushi · Badia · Haz tus pedidos · Formas de pago |
+
+**Bio actual, textual:**
+
+> ~ Pescados, Mariscos & Más ~ 🐙🤩🦐🌊🐠
+> Más de 42 años al servicio 💪
+> 📲 | Tienda Virtual 24/7
+> 📦 | Envíos a todo el Huila 🇨🇴
+
+**Lectura:**
+
+1. **4.900 visualizaciones en 30 días con 754 publicaciones** es alcance
+   muy bajo. Hay volumen de contenido, no hay alcance. **Este es el número
+   a superar antes de volver a pautar.**
+2. **Se siguen 3.042 cuentas y hay 1.886 seguidores.** Seguir a más gente de
+   la que te sigue es señal de estrategia de "sígueme y te sigo", y a un
+   jefe de compras que entra a mirar le resta seriedad.
+3. **La bio le habla a hogares, no a HORECA** — que es el 73% del negocio.
+   Y **no menciona ninguno de los tres diferenciadores reales**: porcionado
+   a la medida, domicilio gratis sin mínimo para restaurantes, y garantía de
+   cambio.
+4. **Ninguna destacada le habla a un restaurante.** Las cuatro son de
+   consumo final.
+5. **"Tienda Virtual 24/7" es un claim a verificar.** La página web está
+   cerrada desde hace tiempo; habría que confirmar qué hay realmente detrás
+   del enlace de Linktree antes de seguir prometiéndolo.
 
 > **Lo primero que hay que montar es medición.** Sin línea base no se puede
 > saber si algo mejoró, y no se debería volver a pautar a ciegas: ya pasó una
@@ -1209,8 +1390,12 @@ retorno.)*
 
 **[Confirmado]**
 
-- **Aumentar un 20% los clientes HORECA.** Es la única meta numérica
-  declarada.
+- **Aumentar un 20% los clientes HORECA.** Es la meta declarada por la
+  gerencia.
+- **Metas cuantificadas en `plan-comercial.md` (octubre 2026):** ventas a
+  clientes con nombre de ~$1.400 M a **$1.600 M**; participación del cliente
+  #1 de 49,8% a **≤42%**; clientes activos de 91 a **115**; margen del
+  portafolio de 27,9% a **29,5%**.
 - Recuperar el liderazgo regional que la empresa tuvo históricamente.
 - Convertir los Frigopacks en una línea que venda.
 - Volver a hacer pauta paga, esta vez bien hecha.
@@ -1241,6 +1426,12 @@ definidos. Los que tienen sentido con la información disponible:
 | Pedidos nuevos por referido | Es el canal real de adquisición |
 | Ticket promedio por segmento | Ya hay línea base |
 | Alcance y mensajes entrantes en Instagram y Facebook | **Hoy no se mide nada.** Es el primer paso antes de volver a pautar |
+| **Ventas separando el cliente #1 del resto de la cartera** | **El indicador que manda.** Mirar el total escondió un año de caída en el resto |
+| Participación del cliente #1 en el total | Mide el riesgo de concentración |
+| Clientes reactivados en el mes | Mide la palanca 2 del plan comercial |
+| Margen promedio del portafolio | Hoy 27,9%. Las Vacas lo arrastran |
+| % de ventas de mostrador con nombre y celular capturados | Hoy el 27% de la facturación es anónima. **Captura ya solicitada a facturación: nombre, celular y si es hogar o restaurante** |
+| Visualizaciones de Instagram en 30 días | **Línea base: 4.900** (24 oct 2026). Es el número a superar antes de pautar |
 
 ---
 
@@ -1268,6 +1459,7 @@ Se pueden usar hoy, tal cual:
 | "Pioneros en la venta de pescado de mar en la región" | Hubo algo en prensa, pero no se tiene la evidencia |
 | "Somos más baratos que la competencia" | Hay dos fuentes internas que coinciden (la comparación de precio por porción y el análisis competitivo, que dice que la competencia **tiene precios altos en porciones al detal**), pero falta saber de qué competidor y de qué fecha son los números. **Además, la gerencia prohíbe el vocabulario de "barato"** — si se usa, se comunica como *precio justo por porción*, nunca como "somos los más baratos" |
 | "Producto local del Huila" | Solo aplica a mojarra y tilapia nacional |
+| **"Pagas pescado, no hielo" / "nuestro producto no tiene glaseo"** como afirmación general | **PROHIBIDO.** Hay glaseo en tilapia importada y camarón. **Sí se puede afirmar, producto por producto, que el salmón, la trucha y el bagre no llevan glaseo** (confirmado 24 oct 2026). La gerencia decidió además **no usar el glaseo como eje de comunicación pública**: queda como argumento de venta directa con chefs |
 | "Perdemos clientes por precio" | Es una suposición: los clientes se van en silencio |
 | El Frigopack resuelve el miedo a cocinar | Lógicamente encaja, pero **no vende**. Sin validar |
 
@@ -1343,6 +1535,10 @@ rotulado.
 | Hoja de seguimiento WhatsApp | CRM | Drive, carpeta CLIENTES 2026 | Seguimiento a hogares | Vigente |
 | Plantilla WhatsApp aprobada | Copy | Drive, carpeta CLIENTES 2026 | Recordatorio de pedido | Vigente (27/08/2026) |
 | Reseñas de Google | Prueba social | Google Business | Testimonios públicos | Vigente |
+| Tipificación de clientes | Analytics | Drive + `tipificacion-2026.md` | Estado y frecuencia de 442 clientes | Vigente, oct 2026 |
+| Tipificación de productos | Analytics | Drive + `tipificacion-2026.md` | Roles del portafolio, 183 refs | Vigente, oct 2026 |
+| Plan comercial | Estrategia | `plan-comercial.md` | Cinco palancas y metas 2027 | Vigente, oct 2026 |
+| Agente de ventas | Ventas | `agente-de-ventas/` | A quién contactar y qué decirle | Listo para usar |
 
 ---
 
@@ -1358,7 +1554,11 @@ rotulado.
 - **`CATALOGO PACANDE.pdf`** (Drive).
 - **`Frigopack precios actualizados 2026.xlsx`**, actualizado 22/08/2026 (Drive).
 - **`Ventas por año.xlsx`** (Drive) — cifras tratadas como confidenciales.
-- **Correos con BR Group**, marzo–mayo de 2023 (Gmail).
+- **Correos con BR Group**, marzo–mayo de 2023 y septiembre de 2026 (Gmail).
+- **`Tipificacion_clientes_Pacande.xlsx`** — Next Level Pro, SIIGO de enero
+  de 2020 al 23 de septiembre de 2026.
+- **`Tipificación de productos y depuración del portafolio.pptx`** — comité
+  de compras del 5 de octubre de 2026.
 - **Skill `contexto-de-marca`**: verbatims, objeciones, estrategia de
   seguimiento, ángulos, estructuras prestadas, design system, encuesta
   (agosto 2026).
@@ -1375,16 +1575,35 @@ rotulado.
 ## 35. Información pendiente
 
 **Prioridad alta**
-1. Por qué se van realmente los clientes HORECA (hoy se van en silencio).
+0. **Reducir la concentración en el cliente #1 (49,8% de la venta).** Es el
+   riesgo más grande del negocio. Ver `plan-comercial.md`.
+1. Por qué se van realmente los clientes HORECA. *Parcialmente respondido:
+   ya se sabe **quiénes** están cayendo; falta la razón, que solo sale de la
+   visita.*
 2. De qué competidor y de qué fecha son los precios comparados internos.
 3. Proceso de decisión del cliente institucional (clubes, casinos, colegios).
 4. Testimonio real de un cliente que superó el miedo a cocinar pescado.
-5. Línea base de métricas de Instagram y Facebook, antes de volver a pautar.
+5. Línea base de Facebook. *La de Instagram ya existe: 4.900 visualizaciones
+   en 30 días, 1.886 seguidores, 754 publicaciones (24 oct 2026).*
+6. **Verificar el claim "Tienda Virtual 24/7"** de la bio de Instagram: la
+   web está cerrada. Confirmar qué hay detrás del Linktree.
+7. **Porcentaje exacto de glaseo** que maneja Pacandé y el máximo que
+   permite la norma. Sin ese dato no se puede citar la norma en
+   comunicación.
 
 **Prioridad media**
 6. **Licencia comercial de la tipografía Ananda Black Personal Use.**
-   Resolver con la agencia o comprándola al autor. *(Ver sección 25.)*
+   Paola Tovar Marketing confirmó que **no la tienen y que no hicieron el
+   logo**. Quedan dos caminos: ubicar a la agencia que creó la identidad
+   original (`jhrocketagencia@gmail.com` o `redeshayplan@gmail.com`), o
+   comprarla directamente a Billy Argel. *(Ver sección 25.)*
 7. Decisión entre los dos azules y cuál es el azul marino correcto.
+   *Avance: la ficha del impresor confirma **Pantone 3005 C** y **Pantone
+   7680 C**; falta su equivalencia exacta en hexadecimal.*
+8. **Unificar las tipografías.** Hoy el empaque usa Montserrat, Takeaway
+   Black y Bebas Neue, mientras las piezas digitales usan Century Gothic y
+   Ananda. Hay que elegir un solo juego.
+9. **Revectorizar el logo.** Nadie conserva el archivo editable original.
 8. Meta de ventas 2027 y meta de unidades de Frigopack.
 9. Números de registro sanitario vigentes y reglas finas de rotulado.
 10. Cómo NO queremos que nos describan · arquetipo de marca.
