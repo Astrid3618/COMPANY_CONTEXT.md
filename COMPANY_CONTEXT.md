@@ -1246,8 +1246,45 @@ producto · catálogo impreso.
   medidos, es observación.
 - **Pauta paga:** se ha hecho **pocas veces**, "no lo hicimos bien y no
   funcionó". **Astrid quiere volver a intentarlo, esta vez bien hecho.**
-- **Métricas:** **no hay ninguna.** Ni seguidores, ni alcance, ni mensajes
-  entrantes medidos.
+### Línea base de Instagram [Confirmado — captura del 24 de octubre de 2026]
+
+**Primera medición que existe del canal.** Cuenta: `@frigorificopacande`,
+nombre de perfil "Frigorifico Pacandé 🐟 Pesquera".
+
+| Dato | Valor |
+|---|---|
+| Publicaciones acumuladas | 754 |
+| Seguidores | 1.886 |
+| Seguidos | **3.042** |
+| **Visualizaciones, últimos 30 días** | **4.900** |
+| Ubicación en perfil | Surabastos, Neiva, Huila |
+| Enlace | `linktr.ee/frigorificopacande` |
+| Destacadas | Sushi · Badia · Haz tus pedidos · Formas de pago |
+
+**Bio actual, textual:**
+
+> ~ Pescados, Mariscos & Más ~ 🐙🤩🦐🌊🐠
+> Más de 42 años al servicio 💪
+> 📲 | Tienda Virtual 24/7
+> 📦 | Envíos a todo el Huila 🇨🇴
+
+**Lectura:**
+
+1. **4.900 visualizaciones en 30 días con 754 publicaciones** es alcance
+   muy bajo. Hay volumen de contenido, no hay alcance. **Este es el número
+   a superar antes de volver a pautar.**
+2. **Se siguen 3.042 cuentas y hay 1.886 seguidores.** Seguir a más gente de
+   la que te sigue es señal de estrategia de "sígueme y te sigo", y a un
+   jefe de compras que entra a mirar le resta seriedad.
+3. **La bio le habla a hogares, no a HORECA** — que es el 73% del negocio.
+   Y **no menciona ninguno de los tres diferenciadores reales**: porcionado
+   a la medida, domicilio gratis sin mínimo para restaurantes, y garantía de
+   cambio.
+4. **Ninguna destacada le habla a un restaurante.** Las cuatro son de
+   consumo final.
+5. **"Tienda Virtual 24/7" es un claim a verificar.** La página web está
+   cerrada desde hace tiempo; habría que confirmar qué hay realmente detrás
+   del enlace de Linktree antes de seguir prometiéndolo.
 
 > **Lo primero que hay que montar es medición.** Sin línea base no se puede
 > saber si algo mejoró, y no se debería volver a pautar a ciegas: ya pasó una
@@ -1371,7 +1408,8 @@ definidos. Los que tienen sentido con la información disponible:
 | Participación del cliente #1 en el total | Mide el riesgo de concentración |
 | Clientes reactivados en el mes | Mide la palanca 2 del plan comercial |
 | Margen promedio del portafolio | Hoy 27,9%. Las Vacas lo arrastran |
-| % de ventas de mostrador con nombre y celular capturados | Hoy el 27% de la facturación es anónima |
+| % de ventas de mostrador con nombre y celular capturados | Hoy el 27% de la facturación es anónima. **Captura ya solicitada a facturación: nombre, celular y si es hogar o restaurante** |
+| Visualizaciones de Instagram en 30 días | **Línea base: 4.900** (24 oct 2026). Es el número a superar antes de pautar |
 
 ---
 
@@ -1522,7 +1560,10 @@ rotulado.
 2. De qué competidor y de qué fecha son los precios comparados internos.
 3. Proceso de decisión del cliente institucional (clubes, casinos, colegios).
 4. Testimonio real de un cliente que superó el miedo a cocinar pescado.
-5. Línea base de métricas de Instagram y Facebook, antes de volver a pautar.
+5. Línea base de Facebook. *La de Instagram ya existe: 4.900 visualizaciones
+   en 30 días, 1.886 seguidores, 754 publicaciones (24 oct 2026).*
+6. **Verificar el claim "Tienda Virtual 24/7"** de la bio de Instagram: la
+   web está cerrada. Confirmar qué hay detrás del Linktree.
 
 **Prioridad media**
 6. **Licencia comercial de la tipografía Ananda Black Personal Use.**
