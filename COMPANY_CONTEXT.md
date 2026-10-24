@@ -1437,6 +1437,7 @@ Se pueden usar hoy, tal cual:
 | "Pioneros en la venta de pescado de mar en la región" | Hubo algo en prensa, pero no se tiene la evidencia |
 | "Somos más baratos que la competencia" | Hay dos fuentes internas que coinciden (la comparación de precio por porción y el análisis competitivo, que dice que la competencia **tiene precios altos en porciones al detal**), pero falta saber de qué competidor y de qué fecha son los números. **Además, la gerencia prohíbe el vocabulario de "barato"** — si se usa, se comunica como *precio justo por porción*, nunca como "somos los más baratos" |
 | "Producto local del Huila" | Solo aplica a mojarra y tilapia nacional |
+| **"Pagas pescado, no hielo" / "sin glaseo"** | **PROHIBIDO.** La gerencia confirmó (24 oct 2026) que **Pacandé sí maneja glaseo**, dentro de lo permitido y sin exagerar. El mensaje usable es *"el glaseo protege el pescado, el exceso se lo cobra"*, y requiere tener el porcentaje exacto para poder citarlo |
 | "Perdemos clientes por precio" | Es una suposición: los clientes se van en silencio |
 | El Frigopack resuelve el miedo a cocinar | Lógicamente encaja, pero **no vende**. Sin validar |
 
@@ -1564,6 +1565,9 @@ rotulado.
    en 30 días, 1.886 seguidores, 754 publicaciones (24 oct 2026).*
 6. **Verificar el claim "Tienda Virtual 24/7"** de la bio de Instagram: la
    web está cerrada. Confirmar qué hay detrás del Linktree.
+7. **Porcentaje exacto de glaseo** que maneja Pacandé y el máximo que
+   permite la norma. Sin ese dato no se puede citar la norma en
+   comunicación.
 
 **Prioridad media**
 6. **Licencia comercial de la tipografía Ananda Black Personal Use.**

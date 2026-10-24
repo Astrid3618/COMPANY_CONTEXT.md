@@ -78,19 +78,34 @@ Colores de marca: fondo blanco, texto en azul marino `#002C89`, el naranja
 
 ---
 
-### Historia 2 — El agua
+### Historia 2 — El glaseo
+
+**Versión corregida.** La gerencia confirmó el 24 de octubre de 2026 que
+**Pacandé sí maneja glaseo, dentro de lo permitido, sin exagerar.** Por eso
+se descartó el mensaje "usted paga por el pescado, no por el hielo": no es
+cierto y un chef lo desmiente con una gramera.
 
 > **Texto en pantalla:**
-> **Usted paga por el pescado.**
-> **No por el hielo.**
+> **El glaseo protege el pescado.**
+> **El exceso se lo cobra.**
+> Nosotros nos quedamos en el que permite la norma.
 
 **Qué se ve:** una porción saliendo del empaque al vacío, sobre la gramera,
-con el peso visible.
+con el peso a la vista.
 
-> ⚠️ **Verificar antes de publicar:** este mensaje solo se puede usar si el
-> gramaje que se factura es **peso neto**, no peso con glaseo. Es el
-> argumento más fuerte que existe y también el más fácil de desmentir.
-> Confirmarlo con bodega antes de grabar.
+**Por qué funciona mejor que el claim anterior:**
+
+- **Es verdad**, y por lo tanto se puede sostener delante de cualquier chef.
+- **Educa en vez de atacar.** Explica para qué sirve el glaseo — proteger el
+  producto de la quemadura por frío — y dónde está el abuso.
+- **No nombra a nadie.** Señala una práctica, no un competidor.
+- Deja a Pacandé del lado del que sabe, no del que promete imposibles.
+
+> ⚠️ **Falta un dato para que quede redonda:** *¿qué porcentaje de glaseo
+> maneja Pacandé y cuál es el permitido?* Con ese número, la historia pasa
+> de buena a imbatible: "nuestro glaseo es del X%, la norma permite hasta
+> Y%". Sin el número, **no usar la palabra "norma"** — decir solo "el
+> mínimo necesario para proteger el producto".
 
 ---
 
