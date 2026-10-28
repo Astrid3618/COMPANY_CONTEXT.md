@@ -142,7 +142,7 @@ bloque grande y creciente.
 |---|---|---|
 | 2024 | $443.776.814 | 23,9% |
 | 2025 | $494.985.764 | 25,4% |
-| 2026 (a 31 oct) | $411.258.881 | 26,8% |
+| 2026 (parcial, exportado en oct) | $411.258.881 | 26,8% |
 
 En 2026 Consumidor Final solo (sin cuantías menores) son **$409.788.861 =
 26,7% de la venta** — más que el cliente más grande. Con ticket promedio de
