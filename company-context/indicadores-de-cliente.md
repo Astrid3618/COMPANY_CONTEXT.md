@@ -128,3 +128,94 @@ Eso es exactamente lo que acaba de pasar con un cliente nuevo de sushi que
 compró una vez en el tercer trimestre y volvió tras un mensaje de
 seguimiento. **Ese caso no es anécdota: es el 67% que normalmente se
 pierde.**
+
+---
+
+## 6. El punto ciego: Consumidor Final
+
+Todo lo anterior mide **clientes facturados con nombre**. Queda afuera un
+bloque grande y creciente.
+
+### Tamaño
+
+| Año | Consumidor Final + cuantías menores | % de la venta |
+|---|---|---|
+| 2024 | $443.776.814 | 23,9% |
+| 2025 | $494.985.764 | 25,4% |
+| 2026 (a 31 oct) | $411.258.881 | 26,8% |
+
+En 2026 Consumidor Final solo (sin cuantías menores) son **$409.788.861 =
+26,7% de la venta** — más que el cliente más grande. Con ticket promedio de
+$68.473 son **~5.985 facturas sin identidad.** [Confirmado, SIIGO]
+
+### Hay restaurantes adentro, y se puede demostrar
+
+Productos facturados a Consumidor Final en 2026 que un hogar no compra:
+
+| Producto | Valor | Cantidad |
+|---|---|---|
+| Panko x kilo | $3.183.554 | 174 kg |
+| Salsa de ostras (510 gr + 260 ml) | $1.974.895 | 101 und |
+| Papa a la francesa bolsa 2.5K | $1.574.790 | 93 bolsas |
+| Algas paquete x 100 | $975.630 | 24 paq |
+| Hondashi kilo | $445.378 | 7,5 kg |
+| Salsa teriyaki | $337.668 | 30 und |
+| Soya Kikkoman x 18,9 litros | $325.630 | 15 garrafas |
+
+**Piso demostrable: $9.142.083 de venta a restaurantes facturada como
+Consumidor Final.** Es un mínimo: solo cuenta productos que no admiten otra
+explicación. El pescado que compraron esos mismos negocios está en el mismo
+balde y no se puede separar. [Confirmado]
+
+Contraste: **papa a la francesa 98,7% y pulpas 99,7% se facturan con
+nombre.** En cambio **condimentos y especias: 84,4% en Consumidor Final** —
+eso es mostrador de Surabastos. [Confirmado]
+
+### Una sola lista de precios
+
+Precio por kilo, Consumidor Final vs. clientes con nombre, 2026:
+
+| Producto | Consumidor Final | Con nombre | Dif. |
+|---|---|---|---|
+| Filete de salmón | $58.027 | $57.986 | +0,1% |
+| Filete de mojarra | $19.074 | $19.142 | −0,4% |
+| Bagre entero o en rodaja | $33.158 | $34.578 | −4,1% |
+| Trucha mariposa | $27.917 | $28.198 | −1,0% |
+| Lomo de atún premium | $48.756 | $48.811 | −0,1% |
+| Filete de róbalo | $67.704 | $67.606 | +0,1% |
+
+Entre los 24 clientes con nombre que compran salmón: mínimo $52.164,
+mediana $58.030, máximo $58.608. **La mediana de los clientes facturados es
+idéntica al precio de mostrador**; solo uno baja de $55.000. [Confirmado]
+
+Consecuencias:
+
+1. **No hay señal de precio** que permita identificar un restaurante dentro
+   de Consumidor Final.
+2. **La estructura de precios no premia volumen ni permanencia.** Un negocio
+   que compra $400.000 al mes paga lo mismo que el cliente que compra
+   $50 millones, y lo mismo que un hogar de $90.000. Es una decisión
+   comercial pendiente de revisar, no un tema contable.
+
+### Qué se puede hacer
+
+**Histórico — alcance limitado.** Pedir a SIIGO **"Ventas por documento" /
+"Detalle de facturas de venta"** (factura, fecha, cliente, producto,
+cantidad, valor), filtrar Consumidor Final y ordenar por valor de factura.
+Las facturas sobre ~$300.000 son restaurantes con alta probabilidad (el
+ticket de hogar va de $84.000 a $110.000). Permite **dimensionar cuántos
+son y cuánto valen**, no identificarlos: sin identidad no se liga una
+factura con la siguiente.
+
+**Hacia adelante — aquí está el valor.** La identidad se captura en la
+entrega, no en SIIGO. Registrar **nombre del negocio y teléfono en las
+observaciones de la factura** (mostrador y domiciliario son los únicos que
+ven al cliente) convierte el balde en una base de datos en seis meses.
+
+**Distinción clave:** el dato tributario y el dato comercial son
+independientes. No se necesita el NIT para tener el teléfono. Un negocio que
+no acepta factura a su nombre igual da su celular — ya está comprando. Hoy
+se pierden los dos datos por tratarlos como uno.
+
+> **Pendiente de validar con el contador:** las implicaciones tributarias de
+> facturar a consumidor final. Este documento no las evalúa.
