@@ -75,3 +75,28 @@ Están todos listados y priorizados en la **sección 35 del
 `COMPANY_CONTEXT.md`**. Los principales: unificar las tipografías,
 revectorizar el logo, resolver la licencia de la fuente Ananda, y conseguir
 la equivalencia hexadecimal de los Pantone.
+
+---
+
+## Empaque Camarón 500 g — 11 de noviembre de 2026
+
+Se analizó el arte propuesto (Flexiempaques/Cromapack, O.P. 54550, 3 nov
+2026) contra la bolsa en uso. Todo en `company-context/empaque/`:
+fotografías de ambos empaques y `ficha-empaque-camaron-500g.md` con el
+análisis y las doce correcciones.
+
+**Hallazgo principal:** la tabla nutricional nueva es la actual
+multiplicada por cinco, sin análisis nuevo. El arreglo es revertirla.
+
+**Estado:** correo de observaciones redactado y guardado como borrador en
+Gmail, dirigido a BR Group (maneja el arte) con copia a diseño. **Falta
+enviarlo.**
+
+**Pendientes que abre:**
+
+1. Respuesta de BR Group sobre el costo de la cuarta tinta y de conservar
+   la fotografía.
+2. Ficha técnica del proveedor de camarón: confirmar aditivos (el sodio
+   declarado es 612 mg/100 g).
+3. Decidir destino del QR y dar de baja o reactivar
+   `www.frigorificopacande.com`, que sigue impreso en empaque y catálogo.
